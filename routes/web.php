@@ -16,3 +16,4 @@ Route::get('/', function () {
 });
 Route::get('/texts', 'TextFileController@index')->name('text-files');
 Route::post('/texts', 'TextFileController@testPost')->name('text-files-post');
+Route::post('/texts2', 'TextFileController@testPost2')->name('text-files-post2');
