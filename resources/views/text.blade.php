@@ -7,16 +7,16 @@
     <title>Text Files</title>
 </head>
 <body>
-    <form method="POST" action="{{ route('text-files-post2') }}" enctype="multipart/form-data">
+    {{-- <form method="POST" action="{{ route('text-files-post2') }}" enctype="multipart/form-data">
     @csrf
     <input type="file" name="file1">
     <input type="file" name="file2">
     <button type="submit">Submit</button>
-    </form>
-    {{-- <form method="POST" action="{{ route('text-files-post') }}" enctype="multipart/form-data">
+    </form> --}}
+    <form method="POST" action="{{ route('text-files-post') }}" enctype="multipart/form-data">
     @csrf
     <input type="file" name="file">
     <button type="submit">Submit</button>
-    </form> --}}
+    </form>
 </body>
 </html>
