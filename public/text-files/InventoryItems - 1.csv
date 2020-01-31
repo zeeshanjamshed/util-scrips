@@ -1,0 +1,725 @@
+*ItemCode,ItemName,PurchasesDescription,PurchasesUnitPrice,PurchasesAccount,PurchasesTaxRate,SalesDescription,SalesUnitPrice,SalesAccount,SalesTaxRate,InventoryAssetAccount,CostOfGoodsSoldAccount
+MISC- Espresso Machine,Espresso Machine,,,,,,$0.00 ,43120,VS5 - VAT on Sales (5%),,
+MISC-Espresso Machine,Espresso Machine,,,,,,$0.00 ,43120,VS5 - VAT on Sales (5%),,
+Misc - Coffee Grinder,Misc - Coffee Grinder,Misc - Coffee Grinder,,,,,$1.00 ,43130,VS5 - VAT on Sales (5%),,
+MISC-GRINDER,Misc - Coffee Grinder,Misc - Coffee Grinder,,,,,$1.00 ,43130,VS5 - VAT on Sales (5%),,
+SMALL RETAIL,New Item,,,,,,$0.00 ,43250,VS5 - VAT on Sales (5%),,
+MISC- Espresso Machine Cleaner,New Item,,,,,,$150.00 ,43250,VS5 - VAT on Sales (5%),,
+SEOL,Service for Equipments on Loan,,,,,,$0.00 ,43250,VS5 - VAT on Sales (5%),,
+LBSER,Labour Servicing,,,,,,$150.00 ,43600,VS5 - VAT on Sales (5%),,
+LDESCALE,Descaling,Descaling,,,,X,$150.00 ,43600,VS5 - VAT on Sales (5%),,
+CG-PG0206,"Colombia, El Carmen Huila",,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0207,"Colombia, Decaf Huila",,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0208,"Colombia, Red Villa Chinchina",,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0209,"Col, Newerley Gutierrez Tolima",,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0210,"Colombia, Planadas ASOPEP",,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0211,"Colombia, ASOCANAFI ",,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0205,Orangutan coffee,,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0203,Guatemala Paraiso 09011119,,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CGO-PG0195,BURUNDI MATRACO (OFFSITE),,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CGO-PG0196,BURUNDI NYAGISHIRU(OFFSITE),,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0197,Rwanda Nyabihu,,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0198,Rwanda Kilimbi Natural,,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0199,Rwanda Kilimbi Microlot,,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CGO-PG0197,Rwandan Nyabihu (OFFSITE),,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0194,Ethiopian Natural Guji,,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0177,"Colombia, El Carmen, Huila",,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0178,"Colombia, Buesaco, Narino",,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0179,"Colombia, ASOPEP Planadas",,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0180,"Colombia, Honey, Tolima",,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0181,"Colombia, Natural Gesha",,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0182,"Colombia, Washed Gesha",,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0183,"Colombia, Huila, Pink Bourbon",,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0184,"Colombia, Jorge Rojas, Honey",,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0185,"Colombia, Canuma, Natural",,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0186,"Colombia, El Carmen, Decaf",,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0187,"Rwanda, Nyabihu Blend, Eco-tac",,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0188,Ethiopian Guji Natural GR.1,Ethiopian Guji Natural Sundried GR.1 Coffee,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),X,,,,13110,
+CG-PG0173,Mexico Arabica Muxbal,,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0174,Mexico High Grown Decaffinated,,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0175,Jamaican Blue Mountain Gold,,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-MEX-HGMWP-DECAF,Mexico Water Processed Decaf,,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-MYN-PG0162,MYAN GA NAING YAR DRY NATURAL,,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-MYN-PG0163,MYAN GA NAING YAR PULPED NATUR,,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0164,Honduras Cerro Azul Nat,,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0165,Indonesian Ara Kericini Gr 1,,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0166,Kenya PB Kisii,,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0167,Indonesian Ara Sumatra Mandhel,,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0168,El Salvador Tapantuguste,,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-ETH-GUJ-RW1,PG-0154 ,Washed Guji Gr-1 CERT NO. 0094,$0.00 ,,VS5 - VAT on Sales (5%),X,,,,13110,
+CG-PG0195,BURUNDI MATRACO,,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0196,BURUNDI NYAGISHIRU,,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0190,MYAN GA NAING YAR DRY NATURAL,,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0123,"Ethiopian, Kochere",,$0.00 ,,N-T - Not Reportable,,,,,13110,
+CG-PG0189,Mexico Arabica SHG EP Muxbal ,,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-TIM-LEU-W,PG-0146,TIMOR LESTE 2018,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),X,,,,13110,
+CG-ETH-GUJ-SN1,PG-0155 Unwashed Guji Gr-1,Unwashed Guji Gr-1 CERT No. 0095,$0.00 ,,VS5 - VAT on Sales (5%),,,,,13110,
+CG-PG0170,Rwanda Red Bourbon Washed,,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CG-PG0172,Burundi Gisha No274,,$0.00 ,,VRX - VAT on Purchases (Reverse) (5%),,,,,13110,
+CO-ADJUSTMENT FOR BEAN,Green Bean Adjustment,,,,,,,,,51246,
+CONSUMABLES,Cafe Consumables - Assorted,Cafe Consumables - Assorted,,,,X,,,,13420,
+SR-K-SIFT12,Kruve Sifter 12 - Black ,,$0.00 ,,VS5 - VAT on Sales (5%),X,,,,13460,
+PI-D-CBFUN-DUT,Packaging - Fundamentals 1kg,Packaging - Fundamentals 1kg (700pcs/box),$0.00 ,,VS5 - VAT on Sales (5%),X,,,,13450,
+PI-P-CB250-PAC,Packaging - Refinery 250 Black,Packaging - Refinery 250 Black (500pcs/box),$0.00 ,,VS5 - VAT on Sales (5%),X,,,,13450,
+PI-A-CB1KG-ACC,"""Packaging, Coffee  Bean Bag,",1kg Kraft Paper Coffee Bags Material:MBOPP/Kraft Paper/AL/PE,$0.95 ,,VS5 - VAT on Sales (5%),X,,,,13450,
+PI-A-CB500-ACC,"""Packaging, Coffee  Bean Bag,",500g Kraft Paper Coffee Bags Material:MBOPP/Kraft Paper/AL/PE,$0.61 ,,VS5 - VAT on Sales (5%),X,,,,13450,
+PI-A-PPBBR-AMC,Paper Bag w/Handel Brown 1x250,,$230.00 ,,VS5 - VAT on Sales (5%),,,,,13450,
+BEV-ESPRESSOB,Beverages Espressobar,,,,,,,,,13230,
+12345,"Water Filter 10""",A special unit that fits on to the bottom of the coffee machine,,,,,$110.00 ,41211,VS5 - VAT on Sales (5%),,
+SF0000,Nude Decaff Ground for Espress,,,,,,$275.46 ,41211,VS5 - VAT on Sales (5%),,
+SF0001,"Water Filtration, Reverse Osmo",,,,,,"$35,995.40 ",41211,VS5 - VAT on Sales (5%),,
+SF0002,"Widgets - 14""",,,,,,$10.00 ,41211,VS5 - VAT on Sales (5%),,
+COFFEE,Coffee Items Not in List,,,,,,$100.00 ,41211,VS5 - VAT on Sales (5%),,
+CB-COFFEE BAGS,New Item,,,,,,$75.00 ,41211,VS5 - VAT on Sales (5%),,
+Coffee Bags,Other Coffee Bags,,,,,,$0.00 ,41211,VS5 - VAT on Sales (5%),,
+SP-ROCKETFUEL-INSTALL,Installation for RF Tower,,,,,,$400.00 ,43600,VS5 - VAT on Sales (5%),,
+SR-L-PICKUP-EXDXB,Out of DXB Pick Up & Delivery,,,,,,$315.00 ,43600,VS5 - VAT on Sales (5%),,
+SP-L-CALLOUT,Call out / Installation,,,,,,$250.00 ,43600,VS5 - VAT on Sales (5%),,
+SP-L-REPLACE,Replacement EM,Replacement EM,,,,X,$200.00 ,43600,VS5 - VAT on Sales (5%),,
+SP-L-PICKUP,Pick Up & Delivery - Dubai,Pick Up & Delivery,,,,X,$210.00 ,43600,VS5 - VAT on Sales (5%),,
+SP-L-ESTIMATE,Service Estimate,Service Estimate,,,,X,$200.00 ,43600,VS5 - VAT on Sales (5%),,
+SP-L-CALLOUT-OT,Call out / Installation (Out o,Call out / Installation (Out of Hours),,,,X,$350.00 ,43600,VS5 - VAT on Sales (5%),,
+SP-L-PICKUP-OT,Pick Up & Delivery (Out of Hou,Pick Up & Delivery (Out of Hours),,,,,$315.00 ,43600,VS5 - VAT on Sales (5%),,
+SP-L-LABOUR-OT,Labour Charges per Hr OT,Labour Charges per Hr (Out of Hours),,,,X,$250.00 ,43600,VS5 - VAT on Sales (5%),,
+PI-D-8ozRC-SL,RAW 8oz Paper Cup (1 Sleeve),RAW 8oz Paper Cup\r\n1 Sleeve,,,,,$52.38 ,43500,VS5 - VAT on Sales (5%),,
+PI-P-PLASTR-AVA,PLA Straw (1x100)/Packet,,,,,,$28.00 ,43500,VS5 - VAT on Sales (5%),,
+PI-S-PLACUP-AVA,PLA Cup (1x50)/Sleeve,,,,,,$45.00 ,43500,VS5 - VAT on Sales (5%),,
+PI-S-PLALID-AVA,PLA Lid (1x100)/Sleeve,,,,,,$45.00 ,43500,VS5 - VAT on Sales (5%),,
+PI-B-4ozCUP-AVA,Raw 4oz Cup (1x1000)/Box,,,,,,$340.00 ,43500,VS5 - VAT on Sales (5%),,
+PI-B-8ozCUP-AVA,Raw 8oz Cup (1x1000)/Box,,,,,,$509.00 ,43500,VS5 - VAT on Sales (5%),,
+PI-B-4ozLID-AVA,4oz lid (1x1000)/Box,,,,,,$293.00 ,43500,VS5 - VAT on Sales (5%),,
+PI-B-8ozLID-AVA,8oz lid (1x1000)/Box,,,,,,$293.00 ,43500,VS5 - VAT on Sales (5%),,
+PI-D-8ozCUP-AVA,Raw 8oz Paper Cup (1x50)/Sleev,,,,,,$25.00 ,43500,VS5 - VAT on Sales (5%),,
+PI-D-8ozLID-AVA,Raw 8oz Lids (1x50)/Sleeve,,,,,,$15.00 ,43500,VS5 - VAT on Sales (5%),,
+PI-S-4ozCUP-AVA,Raw 4oz Cup (1x50)/Sleeve,,,,,,$17.00 ,43500,VS5 - VAT on Sales (5%),,
+PI-S-4ozLID-AVA,4oz lids (1x50)/Sleeve,,,,,,$15.00 ,43500,VS5 - VAT on Sales (5%),,
+PI-A-PPBBRS-AMC,Brown Paper Bags - Small,,,,,,$1.05 ,43500,VS5 - VAT on Sales (5%),,
+PI-A-PPBBRB-AMC,Brown Paper Bags - Big,,,,,,$2.00 ,43500,VS5 - VAT on Sales (5%),,
+PI-A-PAPTR-AMC,Take Away Tray,,,,,X,$1.58 ,43500,VS5 - VAT on Sales (5%),,
+SP-C-RO-MAINTEN,Culligan RO Maintenance,,,,,,"$3,210.00 ",43700,VS5 - VAT on Sales (5%),,
+OSSERVICE,Service Item,,,,,,$0.00 ,43700,VS5 - VAT on Sales (5%),,
+SR-RESTOCKFEE,Restocking Fee for Commercial,"Base is Aed 500, but please calculate as 10% of equipment returned.  ",,,,,$500.00 ,43700,VS5 - VAT on Sales (5%),,
+SP-EXP-ORING,ORING EXPENSED ITEM,,,,,,$10.50 ,43700,VS5 - VAT on Sales (5%),,
+BT-TODXB-RAW-2018,Outside DXB w/n UAE,Training conducted outside Dubai but within UAE outside the RAW Coffee Company,,,,X,"$1,050.00 ",44100,VS5 - VAT on Sales (5%),,
+BT-TOUAE-RAW-2018,"Outside UAE, Outside RAW",Training conducted outside UAE and outside RAW Coffee Company,,,,X,"$2,100.00 ",44100,VS5 - VAT on Sales (5%),,
+BT-TWDXB-RAW-2018,Within Dubai outside RAW,Training within Dubai but conducted outside RAW Coffee Company,,,,X,$525.00 ,44100,VS5 - VAT on Sales (5%),,
+BT-BSR1HR-2018,1HR Barista Station Rental,"Barista Station Rental 1 Hour;
+Inclusive: 2L of Milk / 500g Coffee (non-refundable)",,,,X,$0.00 ,44100,VS5 - VAT on Sales (5%),,
+BT-BSR2HR-2018,2HR Barista Station Rental,"Barista Station Rental 2 Hour;
+Inclusive: 4L of Milk / 1kg Coffee (non-refundable)",,,,X,$0.00 ,44100,VS5 - VAT on Sales (5%),,
+BT-BSR5HR-2018,5HR Barista Station Rental,"Barista Station Rental 5 Hour;
+Inclusive: 6L of Milk / 2.5kg Coffee (non-refundable)",,,,X,$0.00 ,44100,VS5 - VAT on Sales (5%),,
+BT-BDT4hr-HBC-2018,Home Brewer Course,,,,,,"$1,050.00 ",44100,VS5 - VAT on Sales (5%),,
+BT-RAWTOUR,Raw Tour for 4 participants,,,,,,"$1,050.00 ",44100,VS5 - VAT on Sales (5%),,
+BT-RAWTOUR PP,Raw Tour Per Person,,,,,,$262.50 ,44100,VS5 - VAT on Sales (5%),,
+BT-BDT2hr-DOM,Fun With Coffee,Barista Training - Fun With Coffee,,,,X,$500.00 ,44100,VS5 - VAT on Sales (5%),,
+BT-LAF-DOM,Latte Art Foundation,Barista Training Domestic - Latte Art Foundation,,,,X,$400.00 ,44100,VS5 - VAT on Sales (5%),,
+BT-LAA-DOM,Latte Art Advance,Barista Training Domestic - Latte Art Advance,,,,X,$700.00 ,44100,VS5 - VAT on Sales (5%),,
+BT-TWDXB-RAW,Within Dubai outside RAW,Training within Dubai but conducted outside RAW Coffee Company,,,,X,$500.00 ,44100,VS5 - VAT on Sales (5%),,
+BT-TODXB-RAW,Outside DXB w/n UAE,Training conducted outside Dubai but within UAE outside the RAW Coffee Company,,,,X,"$1,000.00 ",44100,VS5 - VAT on Sales (5%),,
+BT-TOUAE-RAW,"Outside UAE, Outside RAW",Training conducted outside UAE and outside RAW Coffee Company,,,,X,"$1,000.00 ",44100,VS5 - VAT on Sales (5%),,
+BT-BDT4hr-DOM,4hr Basic Domestic,Barista Training - Domestic Home Barista 4hr,,,,X,"$1,000.00 ",44100,VS5 - VAT on Sales (5%),,
+BTBI-SCAE,Brewing Introduction - SCAE,Brewing Introduction Training - SCAE,,,,X,"$2,550.00 ",44100,VS5 - VAT on Sales (5%),,
+BTBINM-SCAE,BI - Non Member Certificate,Brewing Introduction Non-Member Certificate - SCAE,,,,X,$635.00 ,44100,VS5 - VAT on Sales (5%),,
+BTBIM-SCAE,BI - Member Certificate SCAE,Brewing Introduction Member Certificate - SCAE,,,,X,$340.00 ,44100,VS5 - VAT on Sales (5%),,
+BT-BSR1HR,1HR Barista Station Rental,"Barista Station Rental 1 Hour;
+Inclusive: 2L of Milk / 500g Coffee (non-refundable)",,,,X,$300.00 ,44100,VS5 - VAT on Sales (5%),,
+BT-BSR2HR,2HR Barista Station Rental,"Barista Station Rental 2 Hour;
+Inclusive: 4L of Milk / 1kg Coffee (non-refundable)",,,,X,$500.00 ,44100,VS5 - VAT on Sales (5%),,
+BT-BSR5HR,5HR Barista Station Rental,"Barista Station Rental 5 Hour;
+Inclusive: 6L of Milk / 2.5kg Coffee (non-refundable)",,,,X,"$1,000.00 ",44100,VS5 - VAT on Sales (5%),,
+BT-PTH-HOME2,Private Training (1-2) Home,Private Training - Home Barista,,,,X,"$1,000.00 ",44100,VS5 - VAT on Sales (5%),,
+BT-PTH-HOME4,Private Training (3)-Home,Private Training - Home Barista,,,,X,$500.00 ,44100,VS5 - VAT on Sales (5%),,
+BT-PTF-FSCAE2,Private Training (1-2) Foundat,Private Training (1-2)  SCAE Foundation,,,,X,"$1,000.00 ",44100,VS5 - VAT on Sales (5%),,
+BT-PTF-FSCAE4,Private Training (3)-Foundatio,Private Training SCAE Foundation ,,,,X,$650.00 ,44100,VS5 - VAT on Sales (5%),,
+BT-BDT2hr-DOM-2018,Fun With Coffee,Fun With Coffee,,,,,$525.00 ,44100,VS5 - VAT on Sales (5%),,
+BT-BDT4hr-DOM-2018,Domestic Home Barista,Domestic Home Barista,,,,,"$1,050.00 ",44100,VS5 - VAT on Sales (5%),,
+MISC,Other Items not part of Invty,,,,,,$150.00 ,46000,VS5 - VAT on Sales (5%),,
+SR-D-COFFEESACK,Coffee Sack for Donation,,,,,,$23.81 ,46000,VS5 - VAT on Sales (5%),,
+CB-LETO BLEND500g,Coffee L'ETO BLEND 500g,,,,,,$55.00 ,46000,VS5 - VAT on Sales (5%),,
+BT-RAWCERT-19,Raw Certificates,,,,,,$100.00 ,44200,VS5 - VAT on Sales (5%),,
+BT-BSR-2018,Barista Rental,,,,,,$525.00 ,44200,VS5 - VAT on Sales (5%),,
+BT-COMFR-COM,Commercial Training,Barista Training - Commercial Customer,,,,X,$0.00 ,44200,VS5 - VAT on Sales (5%),,
+BT-COMFR-COM-2018,Commercial Training,Commercial Training,,,,,"$3,150.00 ",44200,VS5 - VAT on Sales (5%),,
+BTIC-SCA-2018,Intro to Coffee Barista,Intro to Coffee Barista,,,,,$950.00 ,44300,VS5 - VAT on Sales (5%),,
+BTICMC-SCA-2018,ITC Certification Member,ITC Certification Member,,,,,$325.00 ,44300,VS5 - VAT on Sales (5%),,
+BTICNMC-SCA-2018,ITC Certification Non-Member,ITC Certification Non-Member,,,,X,$405.00 ,44300,VS5 - VAT on Sales (5%),,
+BTF-SCA-2018,Barista Skills Foundation,Barista Skills Foundation,,,,X,"$1,575.00 ",44300,VS5 - VAT on Sales (5%),,
+BTBFM-SCA-2018,BSF Certification Member,BSF Certification Member,,,,X,$325.00 ,44300,VS5 - VAT on Sales (5%),,
+BTBFNM-SCA-2018,BSF Certification Non-Member,BSF Certification Non-Member,,,,X,$405.00 ,44300,VS5 - VAT on Sales (5%),,
+BTBF-SCA-2018,Brewing Skills Foundation,Brewing Skills Foundation,,,,,"$1,575.00 ",44300,VS5 - VAT on Sales (5%),,
+BTFMC-SCA-2018,BRF Certification Member,BRF Certification Member,,,,X,$325.00 ,44300,VS5 - VAT on Sales (5%),,
+BTFNMC-SCA-2018,BRF Certification Non-Member,BRF Certification Non-Member,,,,,$405.00 ,44300,VS5 - VAT on Sales (5%),,
+BT-SCA-SENF-2018,SCA CSP Sensory Skills Found,,,,,,"$1,575.00 ",44300,VS5 - VAT on Sales (5%),,
+BTSSFM-SCAE-2018,SSF Certification Member,SSF Certification Member,,,,,$360.00 ,44300,VS5 - VAT on Sales (5%),,
+BTSSFNM-SCAE-2018,SSF Certification Non-Member,SSF Certification Non-Member,,,,X,$405.00 ,44300,VS5 - VAT on Sales (5%),,
+BTI-SCA-2018,Barista Skills Intermediate,Barista Skills Intermediate,,,,,"$2,850.00 ",44300,VS5 - VAT on Sales (5%),,
+BTIMC-SCA-2018,BSI Certification Member,BSI Certification Member,,,,X,$670.00 ,44300,VS5 - VAT on Sales (5%),,
+BTINMC-SCA-2018,BSI Certification Non-Member,BSI Certification Non-Member,,,,X,$950.00 ,44300,VS5 - VAT on Sales (5%),,
+BTBIT-SCA-2018,Brewing Skills Intermediate,Brewing Skills Intermediate,,,,X,"$2,850.00 ",44300,VS5 - VAT on Sales (5%),,
+BTBITM-SCA-2018,BRI Certification Member,BRI Certification Member,,,,,$600.00 ,44300,VS5 - VAT on Sales (5%),,
+BTBITNM-SCA-2018,BRI Certification Non-Member,BRI Certification Non-Member,,,,,$405.00 ,44300,VS5 - VAT on Sales (5%),,
+BTP-SCAE-2018,Barista Skills Professional,Barista Skills Professional,,,,X,"$5,675.00 ",44300,VS5 - VAT on Sales (5%),,
+BTPMC-SCAE-2018,BSP Certification Member,BSP Certification Member,,,,,$670.00 ,44300,VS5 - VAT on Sales (5%),,
+BTPNMC-SCAE-2018,BSP Certification Non-Member,BSP Certification Non-Member,,,,X,"$1,040.00 ",44300,VS5 - VAT on Sales (5%),,
+BTBP-SCA-2018,Brewing Skills Professional,Brewing Skills Professional,,,,X,"$5,675.00 ",44300,VS5 - VAT on Sales (5%),,
+BTBPMC-SCA-2018,BRP Certification Member,BRP Certification Member,,,,X,$670.00 ,44300,VS5 - VAT on Sales (5%),,
+BTBPNMC-SCA-2018,BRP Certification Non-Member,BRP Certification Non-Member,,,,X,"$1,040.00 ",44300,VS5 - VAT on Sales (5%),,
+BT-SCA-SEN,SCA Sensory Skills Foundation ,Sensory Foundation Training - SCA,,,,X,"$1,495.00 ",44300,VS5 - VAT on Sales (5%),,
+BTBIT-SCA,Brewing Intermediate - SCAE,Brewing Intermediate Training - SCAE,,,,X,"$2,695.00 ",44300,VS5 - VAT on Sales (5%),,
+BTBITNM-SCA,B - Intermediate Non Member,Brewing Intermediate Non Member Certificate - SCAE,,,,X,$635.00 ,44300,VS5 - VAT on Sales (5%),,
+BTBITM-SCA,B - Intermediate Member - SCAE,Brewing Intermediate Member Certificate - SCAE,,,,X,$340.00 ,44300,VS5 - VAT on Sales (5%),,
+BTBF-SCA,Brewing Foundation - SCAE,Brewing Foundation Training - SCAE,,,,X,"$1,495.00 ",44300,VS5 - VAT on Sales (5%),,
+BTBFNM-SCA,BF - Non Member Certificate,Brewing Foundation Non-Member Certificate - SCAE,,,,X,$340.00 ,44300,VS5 - VAT on Sales (5%),,
+BTBFM-SCA,BF - Member Certificate,Brewing Foundation Member Certificate - SCAE,,,,X,$225.00 ,44300,VS5 - VAT on Sales (5%),,
+BTBP-SCA,Brewing Professional - SCAE,Brewing Professional Training - SCAE,,,,X,"$5,395.00 ",44300,VS5 - VAT on Sales (5%),,
+BTBPNMC-SCA,BP - Non Member Certificate,Brewing Training Professional - Non Member Certificate - SCAE,,,,X,$990.00 ,44300,VS5 - VAT on Sales (5%),,
+BTBPMC-SCA,BP - Member Certificate,Brewing Training Professional - Member Certificate - SCAE,,,,X,$635.00 ,44300,VS5 - VAT on Sales (5%),,
+BTFMC-SCA,BT Foundation Member Certi,SCAE Barista Member Certificate for Foundation,,,,X,$225.00 ,44300,VS5 - VAT on Sales (5%),,
+BTFNMC-SCA,BT Foundation Non-Member Certi,SCAE Barista Non-member Certificate for Foundation,,,,X,$340.00 ,44300,VS5 - VAT on Sales (5%),,
+BTPMC-SCAE,BT Professional Member Cert,SCAE Barista Member Certificate for Professional,,,,X,$635.00 ,44300,VS5 - VAT on Sales (5%),,
+BTPNMC-SCAE,BT Professional Non-Member Cer,SCAE Barista Non-Member Certificate for Professional,,,,X,$990.00 ,44300,VS5 - VAT on Sales (5%),,
+BTF-SCAE,BT Foundation Barista Training,SCAE Barista Training Foundation,,,,X,"$1,495.00 ",44300,VS5 - VAT on Sales (5%),,
+BTIC-SCA,BT Intro to Coffee Barista Tra,SCAE Barista Training Introduction to Coffee,,,,X,$900.00 ,44300,VS5 - VAT on Sales (5%),,
+BTI-SCA,BT Intermediate Barista Traini,SCAE Barista Training Intermediate,,,,X,"$2,695.00 ",44300,VS5 - VAT on Sales (5%),,
+BTP-SCAE,BT Professional Barista Traini,SCAE Barista Training Professional,,,,X,"$5,395.00 ",44300,VS5 - VAT on Sales (5%),,
+BTICMC-SCA,BT Intro to Coffee Member Cert,SCAE Barista Member Certificate for Intro to Coffee,,,,X,$225.00 ,44300,VS5 - VAT on Sales (5%),,
+BTICNMC-SCAE,BT Intro to Coffee Non-Member,SCAE Barista Non-Member Certificate for Intro to Coffee,,,,X,$340.00 ,44300,VS5 - VAT on Sales (5%),,
+BTIMC-SCA,BT Intermediate Member Certif,SCAE Barista Member Certificate for Intermediate,,,,X,$340.00 ,44300,VS5 - VAT on Sales (5%),,
+BTINMC-SCA,BT Intermediate Non-Member Cer,SCAE Barista Non-Member Certificate for Intermediate,,,,X,$635.00 ,44300,VS5 - VAT on Sales (5%),,
+BT-CM-FOUND,Cross Module Foundation,"Combination Sensory, Brewing & Barista Skills",,,,,"$4,300.00 ",44300,VS5 - VAT on Sales (5%),,
+BT-SCA-GRP1,SCA Fnd + Int + Pro,SCA Foundation + Intermediate + Professional of the same module,,,,,"$9,100.00 ",44300,VS5 - VAT on Sales (5%),,
+BT-SCA-GRP2,Fnd+Int,Foundation & Intermediate Training of the same module,,,,,"$4,000.00 ",44300,VS5 - VAT on Sales (5%),,
+BTSSFNM-SCAE,SS Foundation Non -Member Cert,Sensory Skills Foundation - Non-Member Certificate - SCAE,,,,,$340.00 ,44300,VS5 - VAT on Sales (5%),,
+BTSSFM-SCAE,SS Foundation Member Certifica,Sensory Skills Foundation - Member Certificate - SCAE,,,,X,$225.00 ,44300,VS5 - VAT on Sales (5%),,
+BTSSF-SCAE,SS Foundation - SCAE,Sensory Skills Foundation - SCAE,,,,X,"$1,495.00 ",44300,VS5 - VAT on Sales (5%),,
+BT-SCA-SENI-2018,SCA CSP Sensory Skills Inter,,,,,,"$2,850.00 ",44300,VS5 - VAT on Sales (5%),,
+BT-SCA-SENP-2018,SCA CSP Sensory Skills  Profes,,,,,,"$5,675.00 ",44300,VS5 - VAT on Sales (5%),,
+SR-B-SUGARWT-HOT,Box of White Sugar 5gm Stick,,,,,,$67.20 ,53400,VS5 - VAT on Sales (5%),,
+SR-B-TISSUEBLK-HOT,Black Napkins - Small 20x20cm,,,,,,$250.00 ,53400,VS5 - VAT on Sales (5%),,
+SR-B-STIRRER-FAL,Wooden Coffee Stirrers 14CM,Disposable Wooden Coffee Stirrer 14CM,,,,X,$0.00 ,53400,VS5 - VAT on Sales (5%),,
+SR-B-SUGARBR-HOT,Box of Brown Sugar 5gm Stick,,,,,,$47.69 ,53400,VS5 - VAT on Sales (5%),,
+CB-HARAZI 250g,"Raw Coffee Yemeni Harazi, 250g",Raw Coffee Premium LTO Single Origin - Yemeni Harazi  250g,,,,X,$76.00 ,41210,VS5 - VAT on Sales (5%),,
+CBG-XMAXG2019-COFEXP,Coffee Experience | Col Gesha,Coffee Experience | Washed and Natural Colombian Gesha 250g,,,,X,$950.00 ,41210,VS5 - VAT on Sales (5%),,
+CB-GUMAI DARO 250g,Coffee Ethiopian Gumai  250g,Raw Coffee Guest Premium Single Origin - Ethiopian Gumai Daro 250g,,,,X,$76.00 ,41210,VS5 - VAT on Sales (5%),,
+EB-F-A-IFTAR,RAW IFTAR ADULT,,,,,,$110.00 ,42500,VS5 - VAT on Sales (5%),,
+EB-F-C- IFTAR,RAW IFTAR CHILD ,,,,,,$55.00 ,42500,VS5 - VAT on Sales (5%),,
+MISC - COFFEE,New Item,,,,,,$70.00 ,41220,VS5 - VAT on Sales (5%),,
+LPAINT SP,Color Customization - SP,Colour Customization - Special Paint,,,,X,$500.00 ,43110,VS5 - VAT on Sales (5%),,
+LPAINT 3G,Color Customization 3G,Colour Customization 3G,,,,X,"$2,500.00 ",43110,VS5 - VAT on Sales (5%),,
+SR-R-TSHIRTROAST,RAW Roastery T-shirts,,,,,,$89.25 ,43300,VS5 - VAT on Sales (5%),,
+SR-R-TSHIRTCAFFEINE,RAW Caffeinated T-shirts,,,,,,$89.25 ,43300,VS5 - VAT on Sales (5%),,
+SR-JUTE-BAGS,JUTE BAGS,,,,,,$11.00 ,43300,VS5 - VAT on Sales (5%),,
+SR-R-RAWTSHIRT,RAW Tamp That T-shirts,,,,,,$89.25 ,43300,VS5 - VAT on Sales (5%),,
+SR-R-RAWCAP,RAW Trucker Cap,,,,,,$84.00 ,43300,VS5 - VAT on Sales (5%),,
+TSOU Contract Roasting,Contract Roasting Services,Contract Roasting Services TSOU,,,,X,"$34,000.00 ",45000,VS5 - VAT on Sales (5%),,
+Refinery Coffee Bags,Coffee Bags Refinery,Nicaraguan Cerro De Jesus 250g,,,,X,$50.00 ,41250,VS5 - VAT on Sales (5%),,
+CL-NITR4-RAW,Rocketfuel - Nitro Keg 4.5L,Rocketfuel - Nitro Keg 4.5L,,,,X,$430.00 ,42160,VS5 - VAT on Sales (5%),,
+CL-NITRO-RAW(n/a),Rocketfuel - Nitro Keg 9L,Rocketfuel - Nitro Keg 9L,,,,X,$898.00 ,42160,VS5 - VAT on Sales (5%),,
+SR-RSWSRO-ROC,New Item,,,,,,,,,,
+Misc - Espresso Machine,Espresso Machine,,,,,,,,,,
+BEV-COF-HOT,Hot Beverages Espressobar,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$0.00 ,42110,VS5 - VAT on Sales (5%),,52110
+SPARE PARTS,Spare  Parts,,$0.00 ,53600,VPX - VAT on Purchases (5%),,$10.00 ,43600,VS5 - VAT on Sales (5%),,53600
+SP-MAINTENANCE,Maintenance/Servicing - Equip ,,$0.00 ,53600,VPX - VAT on Purchases (5%),,$415.00 ,43700,VS5 - VAT on Sales (5%),,53600
+MOKHA SMALL RETAIL,Mokha Small Retail,,$0.00 ,91100,VPX - VAT on Purchases (5%),,$0.00 ,81100,VS5 - VAT on Sales (5%),,91100
+BEV-COF-COLD,Cold Beverages Espressobar,,$0.00 ,52120,VS5 - VAT on Sales (5%),,$0.00 ,42120,VS5 - VAT on Sales (5%),,52120
+LPAINT 2G,Color Customization 2G,Colour Customization 2G,$0.00 ,53110,VS5 - VAT on Sales (5%),X,"$2,000.00 ",43110,VS5 - VAT on Sales (5%),,53110
+EG-M-VARIO,Mahlkonig Vario Home Grinder ,Mahlkonig Vario Home Grinder ,$0.00 ,53210,VS5 - VAT on Sales (5%),X,"$2,205.00 ",43210,VS5 - VAT on Sales (5%),,53210
+SR-R-CAP,RAW Trucker Cap,RAW Trucker Cap,$0.00 ,53300,VS5 - VAT on Sales (5%),,$80.00 ,43300,VS5 - VAT on Sales (5%),,53300
+SR-R-TSHIRT,RAW Tamp That T-shirts,RAW Tamp That T-shirts,$48.00 ,53300,VS5 - VAT on Sales (5%),X,$85.00 ,43300,VS5 - VAT on Sales (5%),,53300
+SR-V-TIN,Vintage 10Yr Commemorative Tin,Vintage 10 Yr Commemorative Tin,$0.00 ,53300,VS5 - VAT on Sales (5%),X,$21.00 ,43300,VS5 - VAT on Sales (5%),,53300
+SR-B-BEACHBAGL,Beach Bag - Large,,$0.00 ,53300,VS5 - VAT on Sales (5%),,$65.00 ,43300,VS5 - VAT on Sales (5%),,53300
+SR-G-GROCBAG,Grocery Bag,,$0.00 ,53300,VS5 - VAT on Sales (5%),,$60.00 ,43300,VS5 - VAT on Sales (5%),,53300
+SR-L-POUCH13,Laptop Pouch - 13 Inch,,$0.00 ,53300,VS5 - VAT on Sales (5%),,$50.00 ,43300,VS5 - VAT on Sales (5%),,53300
+SR-L-VELCRO,Lunch Bag - Velcro,,$0.00 ,53300,VS5 - VAT on Sales (5%),,$45.00 ,43300,VS5 - VAT on Sales (5%),,53300
+SR-B-BEACHBAGM,Beach Bag - Medium,,$0.00 ,53300,VS5 - VAT on Sales (5%),,$55.00 ,43300,VS5 - VAT on Sales (5%),,53300
+SR-B-BEACHBAGS,Beach Bag - Small,,$0.00 ,53300,VS5 - VAT on Sales (5%),,$45.00 ,43300,VS5 - VAT on Sales (5%),,53300
+SR-L-POUCHLEATH,Laptop Bag - Leather,,$0.00 ,53300,VS5 - VAT on Sales (5%),,$85.00 ,43300,VS5 - VAT on Sales (5%),,53300
+SR-L-POUCH15,Laptop Pouch - 15inch,,$0.00 ,53300,VS5 - VAT on Sales (5%),,$60.00 ,43300,VS5 - VAT on Sales (5%),,53300
+SR-L-LEATHPOUCH,Leather Pouch,,$0.00 ,53300,VPX - VAT on Purchases (5%),,$65.00 ,43300,VS5 - VAT on Sales (5%),,53300
+Mokha 1450,Mokha 1450 Contract Roasting,Mokha 1450 Contract Roasting,$0.00 ,55000,VS5 - VAT on Sales (5%),X,$7.50 ,45000,VS5 - VAT on Sales (5%),,55000
+CL-BLKCP-RAW(n/a),Rocket Fuel - Black Cap 200ml,,$0.00 ,51230,VS5 - VAT on Sales (5%),,$17.00 ,42160,VS5 - VAT on Sales (5%),,51230
+CL-REDCP-RAW(n/a),Rocket Fuel - Red Cap 200ml,,$0.00 ,51230,VS5 - VAT on Sales (5%),,$16.00 ,42160,VS5 - VAT on Sales (5%),,51230
+Landed cost,Landed cost adjustment,Landed cost adjustment,$0.00 ,13901,N-T - Not Reportable,X,,,,,13901
+ZZ-24FITW,24 Fitness Working WB 500g,""" WORKING"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+CB-ETH-SWW-500,Wonago Coffee Beans 500g,Wonago Roasted Coffee Beans 500gm,$0.00 ,51246,VS5 - VAT on Sales (5%),,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ABFN500,Al Barari Farm NUDE 500g,NUDE Decaffeinated Ground For Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-FAG500,Friends Ave Guatemala 500g,"GUATAMELA Ground for Cold Brew 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-71CW500,71 Cafe Working 500g,"""WORKING""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-AHSB500,Al Hana Star Blacktie 500g,"""BLACKTIE""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-AGB500,Al Ghalia Blacktie 500g,"""BLACKTIE""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-AGS500,Al Ghalia Sidamo 500g,"""SIDAMO""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ALLONSC500,Allons-Y Cafe Colombian 500g,"""COLOMBIAN""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ESQUIRESB,Esquires Coffee Blacktie 500g,"""BLACKTIE""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$72.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ESQUIRESW,Esquires Coffee Working 500g,"""WORKING""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),,$72.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ARROWG500,Arrows & Sparrows Guji 500g,"""GUJI""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-AMBBT1,AMB Mead BLACKTIE 1kg,BLACKTIE Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$135.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-AMBN500,AMB Mead NUDE 500g,"""NUDE"" Decaffeinated Whole Beans 500g RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-AMBW1,AMB Mead WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$135.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-AMBW500,AMB Mead WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-APTW1,Appetite WORKING 1Kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$140.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ARBT1,Arabian Ranches BLACKTIE 1kg,BLACKTIE Whole Beans 1Kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$140.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-FWW500,Flywheel WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-AVECN500,AVEC REST. NUDE 500G,NUDE Decaffeinated Ground For Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-AVECW500,AVEC REST. WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-BBRBT500,Bertin Bistro BLACKTIE 500g,BLACKTIE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-BERN500,Berts NUDE 500g,NUDE Decaffeinated Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$60.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-BERP500,Bert's BOHO 500g,''BOHO'' (PREMIUM) Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$60.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-BERW500,Berts WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$60.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-BMW500,BookMunch WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-BRBLBT500,Burger Rebel BLACKTIE 500gms,BLACKTIE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-BRBLN500,Burger Rebel NUDE 500gm,NUDE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-BRBT500,Bystro BLACKTIE 500g,BLACKTIE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-BRN500,Bystro NUDE 500g,NUDE Decaffeinated Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-24FITCO,24 Fitness COLOMBIAN WB 500g,"""COLOMBIAN""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-MANPRE500,Mantoushe PPEMIUM 500g,"""PREMIUM"" Whole Beans 500g
+Raw Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ECGU500,Guatemalan Whole Beans 500g,Guatemalan Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-BCW500,"BikerCafe ""WORKING"" 500gm",""" WORKING"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-LDBT500,"London Dairy ""BLACKTIE"" 500g","BLACKTIE Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-RLCW1,RoseLeafe Cafe WORKING 1KG,""" WORKING"" Whole Beans 1kg
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$150.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-PCBT500,Pantry Cafe BLACKTIE 500g,"BLACKTIE Whole Beans 500g 
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-NSVW500,NSV Auto Working 500g,""" WORKING"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-GASSID500,Gastronomica SIDAMO 500g,"""SIDAMO"" Ground for Turkish 500g RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$72.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-CMAW500,Centre Musical Arts WORKING500,"""WORKING""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-FENW1,Fen Cafe WORKING 500g,"WORKING  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-CCN500,Circle Cafe NUDE 500g,NUDE Decaffeinated Ground For Esp. 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-CCW500,Circle Cafe WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-CHUBN500,Cycle Hub NUDE 500g,NUDE Ground for Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-CHUBW500,Cycle Hub WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-CIN500,Change Init NUDE 500g,NUDE Decaffeinated Ground for Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-CIW500,Change Init WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-CSBN500,Clinton Street NUDE 500g,NUDE Decaffeinated Ground For Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-CSBCO500,Clinton Street COLOMBIAN 500g,"""COLOMBIAN"" Whole Beans 500g RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-CSBW500,Clinton Street WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-DKN500,Doner Kebab NUDE 500g,NUDE Decaffeinated Ground for Filter 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-DKW500,Doner Kebab WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ECCO500,Empty Cup COLOMBIAN 500g,COLOMBIAN Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ECW500,Empty Cup WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ESPBT500,Espressini BLACKTIE 500g,BLACKTIE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-FAW500,Friends Ave  WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-FILW1,Filli WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$120.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-FILW500,Filli WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$60.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-GASBT500,Gastronomica BLACKTIE 500g,BLACKTIE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$72.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-GASW500,Gastronomica  WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$72.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-GSW500,Green Seeds WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-H18BT500,Hangar 18 Cafe BLACKTIE 500g,BLACKTIE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-HBBT500,Home Bakery BLACKTIE 500g,BLACKTIE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-HBGUA500,Home Bakery GUATAMELAN 500g,"""GUATAMELAN"" Ground 500g RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-HEAN500,H.E.A.T NUDE 500g,NUDE Decaffeinated Ground For Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-HEACO500,H.E.A.T COLOMBIAN GROUND 500g,COLOMBIAN Ground for Cold Brew 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-HEAW500,H.E.A.T WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-HPCO500,Hadef&Partners COLOMBIAN 500gm,"""COLOMBIAN"" for Cold Brew 500g RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-HPW500,Hadef & Partners WORKING 500gm,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-JAVBT500,Java Jolt BLACKTIE 500g,BLACKTIE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-JAVN500,Java Jolt NUDE 500g,NUDE Decaffeinated Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-JAVCO500,Java Jolt COLOMBIAN 500g,"""COLOMBIAN"" Whole Beans 500g RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-JAVW1,Java Jolt WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$130.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZZZ-JBBT500,Jam Bar BLACKTIE 500g,BLACKTIE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-JBCOL500,Jam Bar COLOMBIAN 500g,"""COLOMBIAN"" Whole Beans 500g RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-JBW500,Jam Bar WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-JOGN500,Joga Juice NUDE 500g,NUDE Decaffeinated Ground for Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-JOGW1,Joga Juice WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$135.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-JOGW500,Joga Juice WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-KRBT1,Kauai BLACKTIE 1kg,BLACKTIE Whole Beans 1Kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$140.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-KRN500,Kauai NUDE  500g,NUDE Decaffeinated Ground For Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-LAVW1,La Vita WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$130.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-LFCN500,London Fish Chips NUDE 500g,NUDE Decaffeinated Ground for Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-LFCW1,London Fish Chips WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$130.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-LFCW500,London Fish Chips WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-LT1,Lime Tree Blend 1kg,LIME TREE BLEND Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$125.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-LT200,Lime Tree Blend 200g,LIME TREE BLEND Ground for Filter 200g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$25.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZZZ-LT5,Lime Tree Blend 5kg,LIME TREE BLEND Whole Beans 5kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$625.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-LTN500,Lime Tree NUDE 500g,NUDE Decaffeinated Ground for Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$62.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-LVW500,La Vita WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-MTW1,MamaTani  WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$140.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-MW1,Madarek WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$150.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-MYN500,Mellow Yellow NUDE 500g,NUDE Decaffeinated Ground For Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-MYGUA500,Mellow Yellow Guatemalan 500g,"""GUATEMALAN"" Whole Beans 500g RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-MYW500,Mellow Yellow WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-NFSN500,No. 57  NUDE 500g,NUDE Decaffeinated Ground For Esp 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-NFSP500,No. 57 BOHO 500g,''BOHO'' (PREMIUM) Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-NYLACO500,NYLA COLOMBIAN 500g,COLOMBIAN Ground For Cold Brew 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-NYLAN500,Nyla NUDE 500g,NUDE Decaffeinated Ground for Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-NYLAW500,Nyla  WORKING  500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-OOTPN1,One&Only The Palm NUDE 1kg,NUDE Decaffeinated Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$125.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-OOTPW1,One&Only The Palm WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$125.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ORGCO500,Origami COLOMBIAN 500g,"""COLOMBIAN"" Whole Beans 500g RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-OZN500,Oz Army NUDE 500g,NUDE Decaffeinated Ground for Espresso 500g RAW Coffee Organic Fair Trade Arabica,$65.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-OZCO500,Oz Army COLOMBIAN 500g,COLOMBIAN Ground for Cold Brew 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-OZW1,Oz Army WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$130.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-OZW500,Oz Army WORKING 500g,WORKING Ground for Filter 500g RAW Coffee Organic Fair Trade Arabica,$65.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-PFBT500,Paper Fig BLACKTIE 500g,BLACKTIE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-PFN500,Paper Fig NUDE 500g,NUDE Decaffeinated Ground For Esp 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-PFP500,Pizza Factory BOHO 500g,''BOHO'' (PREMIUM) Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-PFCO500,Paper Fig COLOMBIAN 500g,COLOMBIAN Ground For Cold Brew 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-PHB500,Parkhouse blend 500g,PARKHOUSE Blend 500g,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-PHN500,Parkhouse NUDE 500g,NUDE Decaffeinated Ground for Esp 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-PRDC1,PRD CASUAL 1kg,CASUAL Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$160.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-PRDP1,PRD BOHO 1kg,''BOHO'' (PREMIUM) Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$160.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-QRBT1,Qbara BLACKTIE 1kg,BLACKTIE Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$135.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-QRN500,Qbara NUDE 500g,NUDE Decaffeinated Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-RIPEN500,Ripe NUDE 500g,NUDE Decaffeinated Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-RIPEW500,Ripe WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-SAN500,The Archive NUDE 500g,NUDE Decaffeinated Ground for Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TASGUA1,The Archive GUATAMELAN 500g,GUATEMALAN Whole Beans 1kg  RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$150.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TAW1,The Archive WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$150.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-SIMN500,SimSim NUDE 500g,NUDE Decaffeinated Ground for Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-SIMW1,SimSim WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$135.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-SIRAN500,Sira NUDE 500gm,"NUDE Decaffeinated, Organic, Ethically traded, Arabica.  500gms, whole beans",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-SIRAP500,Sira BOHO 500g,''BOHO'' (PREMIUM) Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-SIRAW1,Sira WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$130.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-SIRAW500,Sira WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-SSN500,Shake Shack NUDE 500g,NUDE Decaffeinated Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-SSW1,Shake Shack Dark Roast 1kg,Dark Roast WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$130.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-STBN500,Spill The Bean NUDE 500g,NUDE Decaffeinated Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZZZ-STBSO500,Spill The Bean SO 500g,SINGLE ORIGIN Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-STBW1,Spill The Bean WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$140.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-STBW500,Spill The Bean WORKING 500g,WORKING  Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-SURN500,Surf Dubai NUDE 500g,NUDE Decaffeinated ground espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-SURCO500,Surf Dubai Colombian CB 500g,"""COLOMBIAN"" Ground for Cold Brew 500g RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-SURW500,Surf Dubai WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TAB9N500,Table9 NUDE 500g,NUDE Decaffeinated Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TAB9W500,Table9  WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TAQB500,Taqado Blend 500gm,Taqado Blend 500gm,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TAQBT1,Taqado Blacktie Blend 1Kg,BLACKTIE Whole Beans 1Kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$135.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TAQM500,Taqado MEXICAN 500g,MEXICAN Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TAQN500,Taqado NUDE 500g,NUDE Decaffeinated Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZZZ-TAS500,TOM & SERG Blend 500gms,TOM & SERG Blend 500gms,$0.00 ,51246,VS5 - VAT on Sales (5%),,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZZZ-TASBW1,Tom & Serg Esp Blend Bad Wolf,"Tom & Serg Special Espresso Blend ""Bad Wolf"" 1kg, Arabica Whole Beans",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$140.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZZZ-TASESO,Tom&Serg ESPRESSO ROAST S.O.,Tom & Serg Espresso Roast Single Origin 1kg,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$140.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZZZ-TASM500,Tom & Serg MEXICAN 500gms,Tom & Serg Mexican 500gms,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZZZ-TASMB1,Tom & Serg Milk Blend Rose&Ten,"Tom & Serg Special Milk Blend ""Rose&Ten"" 1Kg, Arabica Whole Beans",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$140.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TASSO1,Tom & Serg SO ETHIOPIAN JIMMA,TOM & SERG S/O Ethiopian Jimma 1kg,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$140.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TASSID500,Tom & Serg SO ETHIOPIAN SIDAMO,TOM & SERG S/O Ethiopian Sidamo 500g,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TKN500,Taste Kitchen NUDE 500g,NUDE Decaffeinated ground for espresso 500gms Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TKP500,Taste Kitchen BOHO 500g,"''BOHO'' (PREMIUM) whole beans 500gms, Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TKTCE500,Taste Kitchen TurkishCoffee500,ETHIOPIAN Turkish Coffee 500g Ground For Turkish,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TPBT500,Third Place BLACKTIE 500g,BLACKTIE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TPN500,Third Place NUDE 500g,NUDE Decaffeinated Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TPW500,Third Place WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TSOUHB1,TSOU House Blend 1kg,TSOU House Blend 1Kg,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$140.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZZZ-TSOUSOE500,TSOU SO ESP 500gm BEANS,TSOU Single Origin ESPRESSO 500gm WHOLE BEANS,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZZZ-TSOUSOF500,TSOU SO Filter BEANS 500g,TSOU SINGLE ORIGIN Filter 500g Whole Beans,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TTC1,Teletronics CASUAL 1kg,CASUAL Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$150.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TTP1,Teletronics BOHO 1kg,''BOHO'' (PREMIUM) Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$150.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-TTGUA500,Teletronics Guatamelan 500g,"""GUATAMELAN"" Whole Beans 500g RAW Coffee Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-UBTBT500,Urban Bites BLACKTIE 500g,BLACKTIE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-UBTN500,Urban Bites NUDE 500g,NUDE Decaffeinated Ground for Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-UBTSO500,Urban Bites HARRAR 500g,"""ETHIOPIAN"" Whole Beans 500g",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ULTRAN500,Ultra Brassiere NUDE 500g,NUDE Decaffeinated Ground for Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ULTRASO500,Ultra Brassiere SO 500g,"""COLOMBIAN"" Ground Filter 500g",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ULTRAW1,Ultra Brassiere WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$140.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-UTP1,U Travel BOHO 1kg,''BOHO'' (PREMIUM) Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$140.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-UTP500,U Travel BOHO 500g,''BOHO'' (PREMIUM) Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-XN500,Xqueezit NUDE 500g,NUDE Decaffeinated Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$60.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-XW1,Xqueezit WORKING 1kg,WORKING Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$120.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-YFBT500,Yogenfruz BLACKTIE 500g,BLACKTIE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-YFN500,Yogenfruz NUDE 500g,NUDE Decaffeinated Ground For Esp 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ZBN500,Zighy Bay NUDE 500gms,NUDE Decaffeinated  Ground for Espresso 500g Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ZBSO500,Zighy Bay SO 500g,"SINGLE ORIGIN, Whole Beans, 500gm, Organic Fair Trade Arabica",$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ZBW500,Mighty Bay WORKING 500g,WORKING Blend Whole Beans Organic Fair Trade Arabica 500gms,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ZLCW500,Zabeel Ladies WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51246,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51246
+ZZ-ABFC500,Al Barari Farm CASUAL 500g,"CASUAL Whole Beans 500g 
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-HAPIGUJI,Hapi Guji 500g,GUJI Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-GASN500,Gastronomica NUDE 500g,"NUDE Ground for Espresso 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$72.50 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-DUBIZW500,Dubizzle WORKING 500g,"WORKING  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-MOTOB500,Motomachi BLACKTIE 500g,"BLACKTIE  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-SAMSG500,Sams Box GUATEMALA 500g,"GUATEMALA Ground for Cold Brew 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-CRAFTG500,Craft Cafe Guatemala 500g,""" GUATEMALA"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-CRAFTL500,Craft Cafe LBD 500g,""" LITTLE BLACK DRESS - LBD"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-CRAFTB500,Craft Cafe Blacktie 500g,""" BLACKTIE"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-CGBC500,Crossfit Colombian Cold Brew,"""COLOMBIAN"" Ground for Cold Brew 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-CGBCE500,Crossfit Colombian Espresso,""" COLOMBIAN"" Ground for Espresso 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-DCFB500,Deloitte Blacktie 500g,"""BLACKTIE"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-DOSEB500,DOSE Blacktie 500g,"""BLACKTIE"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-DOSEP500,DOSE Peru 500g,"""WORKING"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-DOSEC500,DOSE Colombian 500g,"""COLOMBIAN"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-DUCABB500,Ducab High Voltage Boho 500g,"""BOHO"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-DUCABW500,Ducab High Voltage Working 500,"""WORKING"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-EATW500,Eat Sunshine Working 500g,"""WORKING"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-EATN500,Eat Sunshine Nude 500g,"""NUDE"" Ground for Espresso 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ECOL500,Eco Coast LBD 500g,"""LITTLE BLACK DRESS - LBD"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ECOW500,Eco Coast Working 500g,"""WORKING"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ENDES500,Endeavor Sidamo 500g,"""SIDAMO"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ENDEL500,Endeavor LBD 500g,"""LITTLE BLACK DRESS - LBD"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-FALCONB500,Falcon & Associates Boho 500g,"""BOHO"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-FIRINS500,Firin Al Haya Sidamo 500g,"""SIDAMO"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-FIRINB500,Firin Al Haya Blacktie 500g,"""BLACKTIE"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-FROSTYB500,Frosty Cafe Boho 500g,"""BOHO"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-GOLFB500,Golf & Shooting Blacktie 500g,"""BLACKTIE"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-GRANC500,Grandeur Hotel Colombian 500g,"""COLOMBIAN"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-GHFL500,Greenheart Organic LBD 500g,"""LITTLE BLACK DRESS - LBD"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-HAPIW500,Hapi Working 500g,"""WORKING"" Whole Beans 500g\r\nRAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-HAPIG500,Hapi Guatemalan 500g,"""GUATEMALAN"" Ground for Cold Brew 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-HUSSY500,Hussain Lootah Yirga 500g,"""YIRGACHEFFE"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-HUSSS500,Hussain Lootah Sidamo 500g,"""SIDAMO"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ICEB500,Ice Factory Boho 500g,"""BOHO"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-INTERP 500g,Intersect by Lexus Peru 500g,"""PERU"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-INTERM500,Intersect by Lexus Mexican 500,"""MEXICAN"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-JEFFILB500,Jeffries Intl Boho 500g,"""BOHO"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-JLLB500,Jones Lang La Salle Boho 500g,"""BOHO"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-JLLBG500,Jones Lang Boho Ground 500g,"""BOHO'' (PREMIUM) Ground for filter Brewing 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-KAFTAN500,Kaftan Restaurant Blacktie 500,"""BLACKTIE"" Whole Beans 500g\r\nRAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-KALASB500,Kalashnikov Cafe Blacktie 500g,"""BLACKTIE"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-KEITAW1KG,Keita Catering Working 1kg,"""WORKING"" Whole Beans 1kg
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$150.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-LDCB500,London Dairy Blacktie 500g,"""BLACKTIE"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-LUNDBC500,Lundbeck Colombian 500g,"""COLOMBIAN"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-MEADW1KG,MEAD FAcilities Working 1kg,"""WORKING"" Whole Beans 1kg
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),,$135.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-MOODYC500,Moody's Investors Colombian500,"""COLOMBIAN"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-NSVL500,NSV Auto LBD 500g,"""LITTLE BLACK DRESS-LBD"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-OAKSWW1KG,Oakks Walk Working 1KG,"""WORKING"" Whole Beans 1kg
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$150.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-PANW1KG,Panmeas Working 1kg,"""WORKING"" Whole Beans 1kg
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$150.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-PANCS500,Pantry Cafe Sidamo 500g,"""SIDAMO"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-PANCN500,Pantry Cafe Nude 500g,"""NUDE"" Ground for Espresso 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-PRDB500,PRD Nationwide Boho 500g,"""BOHO"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$80.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-SAMSB500,Sams Box BLACKTIE 500g,"""BLACKTIE"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-STEIGB500,Steigenberger Blacktie 500g,"""BLACKTIE"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-SIMONB500,Simmons & Simmons Blacktie 500,"""BLACKTIE"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-STROOPW500,Stroopwafel WORKING 500g,"WORKING Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-SHMEW500,Stephenson Harwood Working 500,"""WORKING"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-TACG500,The Archive Guatemalan 500g,"""GUATEMALAN"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-TACW500,The Archive Working 500g,"""WORKING"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-TACN500,The Archive Nude 500g,"""NUDE"" Ground for ESPRESSO 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-VELOW500,Velo Cafe WORKING 500g,"""WORKING"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-WESTINL500,Westin Hotel LBD 500g,"""LITTLE BLACK DRESS-LBD"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-AFFOB500,Affogato Cafe Blacktie 500g,"""BLACKTIE"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-AFFOL500,Affogato Cafe LBD 500g,"""LITTLE BLACK DRESS-LBD"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-AFFOW500,Affogato Cafe Working 500g,"""WORKING"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ENSHAW,Enshaa Working 500g,"""WORKING"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ENSHAB500,Enshaa Boho 500g,"""BOHO"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-FACEW500,Face to Face Working 500g,"""WORKING"" Ground for ESPRESSO 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-LIMAHW500,Limah Design Working 500g,"""WORKING"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-LOCALB500,Local Bites Blacktie 500g,"""BLACKTIE"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-LOCALG500,Local Bites Guatemalan 500g,"""GUATEMALAN"" Ground for COLD BREW 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-CHOCOB500,Chocolate Rep Blacktie 500g,"""BLACKTIE"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-GLENC500,Glencore Colombian 500g,"""COLOMBIAN"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-CHOCOS500,Chocolate Rep Sidamo 500g,"""SIDAMO"" Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-MARBELLAW,Marbella Cafe Working 500g,"""WORKING""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-MARBELLAS,Marbella Cafe Sidamo 500g,"""SIDAMO""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-EMBODYW1,Embody Fitness Working 1kg,"""WORKING""  Whole Beans 1kg
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$150.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-EMBODYN,Embody Fitness Nude 500g,"""NUDE""  Ground for Espresso 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-SHABARBUSHB,Shabarbush Blacktie 500g,"""BLACKTIE""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-SHABARBUSHC,Shabarbush Colombian 500g,"""COLOMBIAN""  Ground for Cold Brew 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-KAFTANW,Kaftan Working 500g,"""WORKING""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-BLACKSMITHG,Blacksmith Guatemala 500g,"""GUATEMALA""  Ground for Cold Brew 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$85.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-SMARTL,Smart Dubai LBD 500g,"""LBD - Little Black Dress""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-SMARTB,Smart Dubai Blacktie 500g,"""BLACKTIE""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ALHEEFW,Al Heef Cafe Working 500g,"""WORKING""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-EATABL,Eat Artisanal Bakery LBD 500g,"""LBD - Little Black Dress""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-EATABB,Eat Artisanal Bakery Boho 500g,"""BOHO""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-EATABM500,Eat Artisanal Bakery Mexican 5,"""MEXICAN""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-PBN500,Puff Baker Nude Decaff 500g,"""Nude Decaff"" Ground for Espresso 500g
+RAW Coffee Organic Fair Tra`de Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-PBW500,Puff Baker Working Blend 500g,"""WORKING"" Whole Beans 500g
+RAW Coffee Organic Fair Tra`de Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZZZ-CBSO1.5,Cold Brew Single Origin syrup,"Cold Brew Single Origin, concentrate.  Organic, Fair Trade Arabica 1.5 litre",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$120.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZZZ-CBSO500,Cold Brew Single Origin,"Cold Brew Single Origin 500ml Organic, Ethically Traded",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$50.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-BERSO500,Bert's Guatemala 500g,GUATEMALAN Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51247,VS5 - VAT on Sales (5%),X,$60.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-RETAILB500,Retail is Detail BLACKTIE500g ,BLACKTIE Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-RETAILC500,Retail is Detail COLOMBIAN500,COLOMBIAN Ground - Cold Brew 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-LETOL1,L'eto Cafe LBD 1kg,LBD Whole Beans 1kg RAW Coffee Organic Fair Trade Arabica,$0.00 ,51247,VS5 - VAT on Sales (5%),X,$150.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-LETOL500,L'eto Cafe LBD 500g,LBD Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-LETON500,L'eto Cafe NUDE 500g,NUDE Ground for Espresso 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-VELON500,Velo Cafe NUDE 500g,"NUDE Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ARROWN500,Arrows & Sparrows NUDE 500g,"NUDE Ground for Espresso 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-HOMEL500,Home Fitness LBD 500g,"LBD Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-CMAN500,Centre Musical Arts NUDE 500,"NUDE Ground for Espresso 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ALMULLAW500,Al Mulla Working 500g,"""WORKING""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$67.50 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ARABW500,Arabstick Working 500g,"""WORKING""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ARROWW500,Arrows & Sparrows Working 500g,"""WORKING""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ATIB500,Atisuto Blacktie 500g,"""BLACKTIE""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ABCC500,At Blend Cafe Colombian 500g,"""COLOMBIAN""  Ground for Filter 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-BGB500,Brewing Gadgets Blacktie 500g,"""BLACKTIE""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$70.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-BBB500,Brownie Box Blacktie 500g,"""BLACKTIE""  Whole Beans 500g
+RAW Coffee Organic Fair Trade Arabica",$0.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ABFP500,Al Barari Farm BOHO 500g,''BOHO''(PREMIUM) Ground for Filter 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51247,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-ABFW500,Al Barari Farm WORKING 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$0.00 ,51247,VS5 - VAT on Sales (5%),X,$65.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-YUMW500,Yumtingz Working 500g,WORKING Whole Beans 500g RAW Coffee Organic Fair Trade Arabica,$75.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+ZZ-YUMSID500,"Coffee Sidamo 500g, Coffee Bag","SIDAMO Ground for Cold Brew 500g
+RAW Coffee Organic Fair Trade Arabica",$75.00 ,51247,VS5 - VAT on Sales (5%),X,$75.00 ,41211,VS5 - VAT on Sales (5%),13210,51247
+EB-CHEMEX-SO,Brewed Chemex S/O,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$35.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-CEZVE-SO,Brewed Cezve/Ibrik S/O,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$17.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-POUROV-SO,Brewed Pour Over S/O,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$20.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-AEROPR-SO,Brewed Aeropress S/O,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$20.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-SYPHON-SO,Brewed Syphon S/O,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$30.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-BATCHB-SO,Brewed Batch Brew S/O,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$12.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-CHEMEX-P,Brewed Chemex Premium,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$50.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-CEZVE-P,Brewed Cezve/Ibrik Premium,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$20.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-POUROV-P,Brewed Pour Over Premium,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$25.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-AEROPR-P,Brewed Aeropress Premium,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$25.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-SYPHON-P,Brewed Syphon Premium,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$40.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-BATCHB-P,Brewed Batch Brew Premium,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$12.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-BLENDS-S,Espresso Blends Single,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$13.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-BLENDS-D,Espresso Blends Double,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$15.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-SORIGN-S,Espresso Single Origins Single,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$13.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-SORIGN-D,Espresso Single Origins Double,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$15.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-PORIGN-S,Espresso Premium Origin Single,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$16.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-PORIGN-D,Espresso Premium Origin Double,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$18.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-REFINERY-S,Espresso Refinery Single,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$18.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-REFINERY-D,Espresso Refinery Double,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$20.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-MACCHI-S,Espresso Macchiato Single,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$15.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-MACCHI-D,Espresso Macchiato Double,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$17.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-PICCOL-D,Espresso Piccolo Double,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$19.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-CORTAD-S,Espresso Cortado Single,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$16.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-CAPPUC-S,Espresso Cappucino Single,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$17.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-CAPPUC-D,Espresso Cappucino Double,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$19.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-LATTE-S,Espresso Latte Single,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$18.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-LATTE-D,Espresso Latte Double,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$20.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-FLATW-D,Espresso Flatwhite Double,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$20.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-MOCHA-S,Espresso Mocha Single,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$20.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EB-MOCHA-D,Espresso Mocha Double,,$0.00 ,52110,VS5 - VAT on Sales (5%),,$22.00 ,42110,VS5 - VAT on Sales (5%),13311,52110
+EM-L-GEE3G-BON,GB5 EE 3 Group (La Marzocco),"Espresso Machine, GB5 EE 3 Group (La Marzocco)",$0.00 ,53140,VS5 - VAT on Sales (5%),X,$0.00 ,43120,VS5 - VAT on Sales (5%),13410,53140
+EM-L-GAV3G-BON,GB5 AV 3 Group   (La Marzocco),"Espresso Machine, GB5 AV 3 Group   (La Marzocco)",$0.00 ,53140,VS5 - VAT on Sales (5%),X,$0.00 ,43120,VS5 - VAT on Sales (5%),13410,53140
+CG-M-K30TW-BON,K30 Twin Esp (Mahlkonig),"Coffee Grinder, K30 Twin Esp (Mahlkonig)",$0.00 ,53130,VS5 - VAT on Sales (5%),X,"$14,100.00 ",43130,VS5 - VAT on Sales (5%),13410,53130
+CG-M-K30MA-BON,K30 (Mahlkonig) - Commercial,"Coffee Grinder, Mahlkonig K30- Espresso Grinder CGMK30","$6,400.00 ",53130,VS5 - VAT on Sales (5%),X,"$8,200.00 ",43130,VS5 - VAT on Sales (5%),13410,53130
+CG-M-VARIO-BON,Vario (Mahlkonig),"Coffee Grinder, Vario (Mahlkonig)","$1,600.00 ",53130,VS5 - VAT on Sales (5%),X,"$2,395.00 ",43130,VS5 - VAT on Sales (5%),13410,53130
+EB-EIDBUNDLE 1-2019,Eid Bundle excl Coff,1,Keep cup AED 60/75/90/105\r\n2,VS5,,,,,,43250,VS5
+EB-EIDBUNDLE-2-2019,Eid Bundle Excl Coffee,Hario - V60 Dripper 02 - Ceramic\r\nHario - V60 Glass Range Server \r\nHario - V60 02 Paper Filter\r\n,$0.00 ,53250,VPX - VAT on Purchases (5%),,$490.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-C-RD1LTR-BRE,Descaler Organic -Liquid-ltr,"Cafetto-Liquid Organic Descaler, 1L6p/car RED",$72.00 ,53250,VPX - VAT on Purchases (5%),X,$100.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-M-MCRSM-BRE,Mr Clever Coffee Dripper Red,"Coffee Maker,  Coffee Dripper - Red (Mr Clever) BGCDR",$82.50 ,53250,VS5 - VAT on Sales (5%),X,$110.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-M-SIZE2-BRE,Melitta Coffee Filters Size 2,,$0.00 ,53250,VPX - VAT on Purchases (5%),,$26.25 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-M-MCCLA-BRE,Mr Clever Coffee Dripper Large,Mr Clever Coffee Dripper Large,$105.00 ,53250,VS5 - VAT on Sales (5%),X,$140.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-B-HDGCP-BRE,Hario Coffee Press Double,"Coffee Maker, Double Glass - Coffee Press (Hario)",$325.00 ,53250,VS5 - VAT on Sales (5%),X,$428.57 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-B-SFCHA-BRE,"Filters - Brewing, Syphon Fil",Cloth Filter for Coffee Siphon (5pcs in 1pkt),$60.00 ,53250,VS5 - VAT on Sales (5%),X,$45.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-T-KBCTS-BRE,"Knockbox,  Counter Top",Knock Box Tubbi Large,$97.75 ,53250,VS5 - VAT on Sales (5%),X,$115.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-H-VRS36-BRE,V60 Range Server 360ml,"Accessories, V60 Range Server 360ml",$50.41 ,53250,VS5 - VAT on Sales (5%),X,$110.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-H-VDCL1-BRE,V60 Dripper Clear,Coffee Dripper V60 02 Clear,$25.21 ,53250,VS5 - VAT on Sales (5%),X,$35.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-R-CG10Z-BRE,Coffee Glass 10oz - RW,V60 Coffee Glass 10oz,$67.21 ,53250,VS5 - VAT on Sales (5%),X,$80.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-R-CF450-BRE,"Glass, Coffee Glass 450ml (Ra",V60 Server Clear Glass - 450ml,$84.02 ,53250,VS5 - VAT on Sales (5%),X,$95.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-B-V60F1-BRE,V60 Filter Paper 01 Misarashi,V60 Coffee Paper filter 01 Misarashi Box 100,$16.80 ,53250,VS5 - VAT on Sales (5%),X,$34.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-B-MRCF2-BRE,Mr Clever Filter Paper 02 Misa,Mr. Clever Filter - Big Misarashi Box 100 BGV60F02,$18.57 ,53250,VS5 - VAT on Sales (5%),X,$36.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-H-VDCE1-BRE,V60 - 01 Ceramic One Cup,V60 - 01 Ceramic One Cup,$76.55 ,53250,VS5 - VAT on Sales (5%),X,$115.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-C-EC1KG-BRE,Espresso Clean 1kg,Cafetto Espresso Clean 1kg,$0.00 ,53250,VS5 - VAT on Sales (5%),X,$200.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-C-EC500-BRE,Espresso Clean 500g,Cafetto Espresso Clean 500g CACC500,$0.00 ,53250,VS5 - VAT on Sales (5%),X,$128.57 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-C-RD1KG-BRE,Restore Descaler 1kg - Cafetto,"""Cleaner, Restore Descaler 1kg (tub) (Cafetto)""",$59.00 ,53250,VS5 - VAT on Sales (5%),X,$170.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-E-WFCSL-CUL,"Water Filtration, Claris Syst","""Water Filtration, Claris System Large (Everpure)""",$0.00 ,53250,VS5 - VAT on Sales (5%),X,$700.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-T-CSWSM-TRI,Cup & Saucer Small  (White),"Ceramics, Cups & Saucer Latte  (LARGE)",$22.50 ,53250,VS5 - VAT on Sales (5%),X,$66.67 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-K-KCCBG-KEE,Keep Cup - Cold Brew Glass,Keep Cup - Cold Brew Glass,$0.00 ,53250,VS5 - VAT on Sales (5%),X,$65.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-T-BS3CT-TAR,Brew Bar 3 Cup With Stand,"Accessories, Brew Bar 3 Cup With Stand",$380.00 ,53250,VS5 - VAT on Sales (5%),X,$650.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-T-KBHMA-TAR,"""Knockbox, Holder Maple""",Knock Box Holder Maple,$0.00 ,53250,VS5 - VAT on Sales (5%),X,$165.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-KEEPC-8OZ-KCFA08-GUNMETAL,Plastic 8oz KeepCup Gun Metal,,$0.00 ,53250,VPX - VAT on Purchases (5%),,$60.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-KEEPC-12OZ-KCFA12-GUNMETAL,Plastic 12oz  KeepCup Gun Meta,,$0.00 ,53250,VPX - VAT on Purchases (5%),,$90.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-KEEPC-8OZ-KCFA08-BLACK,Plastic 8oz  KeepCup Black,,$0.00 ,53250,VPX - VAT on Purchases (5%),,$60.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-KEEPC-12OZ-KCFA12-BLACK,Plastic 12oz  KeepCup Black,,$0.00 ,53250,VPX - VAT on Purchases (5%),,$90.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-KEEPC-8OZ-CFA08-CLEAR,Plastic 8oz  KeepCup Clear,,$0.00 ,53250,VPX - VAT on Purchases (5%),,$60.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-KEEPC-12OZ-PLASTIC,KeepCup 12oz Plastic,,$0.00 ,53250,VPX - VAT on Purchases (5%),,$90.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-KEEPC-8OZ-BCFA08-LATTE,Glass 8oz KeepCup Lid Latte,,$0.00 ,53250,VPX - VAT on Purchases (5%),,$75.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-KEEPC-12OZ-BCFA12-LATTE,Glass 12oz  KeepCup Lid Latte,,$0.00 ,53250,VPX - VAT on Purchases (5%),,$105.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-KEEPC-8OZ-BCFA08-CHARCOAL,Glass 8oz KeepCup Lid Soft Cha,,$0.00 ,53250,VPX - VAT on Purchases (5%),,$75.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-KEEPC-12OZ-BCFA12-CHARCOAL,Glass 12oz KeepCup Lid Soft Ch,,$0.00 ,53250,VPX - VAT on Purchases (5%),,$105.00 ,43250,VS5 - VAT on Sales (5%),13420,53250
+SR-KEEPC-8OZ-BESP08-UNBRANDED,Glass 8oz KeepCup Unbranded,,$0.00 ,53250,VPX - VAT on Purchases (5%),,$75.00 ,43250,VS5 - VAT on Sales (5%),13420,53250

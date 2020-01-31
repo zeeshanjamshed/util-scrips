@@ -1,0 +1,484 @@
+*Code,*Name,*Type,"*Tax Code",Description,Dashboard,"Expense Claims","Enable Payments",Balance
+10000,Assets,"Current Asset",,,No,No,No,"$10,251,448.90"
+11000,"Current Assets","Current Asset",,,No,No,No,"$1,467,048.46"
+11100,"Cash on Hand","Current Asset",,,No,No,No,"$697,335.28"
+11110,"Mashreq Bank A/C #0496612811",Bank,N-T,,No,No,No,"($36,550.01)"
+11120,"CBD - Salary Account",Bank,N-T,,No,No,No,"$8,469.42"
+11130,"RAKBANK A/C # 0012391932061",Bank,N-T,,No,No,No,"$572,428.25"
+11131,"Electronic Clearing Account","Current Asset",VP5,,No,No,No,$0.00
+11140,"Paypal Account","Current Asset",N-T,,No,No,No,"$40,165.67"
+11141,"Checkout Rolling Reserves","Current Asset",N-T,,No,No,No,"$76,614.54"
+11145,"Checkout Clearing","Current Asset",N-T,,No,No,No,"$49,682.61"
+11150,"Imprest Petty Cash Fund",Bank,N-T,,No,No,No,"$2,000.00"
+11151,"Petty cash account",Bank,VPX,,No,No,No,"$17,795.08"
+11155,"Cash in Transit",Bank,N-T,,No,No,No,$0.00
+11160,"Revolving Fund","Current Asset",N-T,,No,No,No,$0.00
+11180,"Undeposited Funds","Current Asset",N-T,,No,No,No,"$2,719.50"
+11185,"RAK Credit Card",Bank,N-T,,No,No,No,$0.00
+11190,"Clearing Account","Current Asset",N-T,,No,No,No,$0.00
+11195,"Credit Card Payment Clearing","Current Asset",N-T,,No,No,No,"$4,175.89"
+11200,"Trade debtors","Current Asset",,,No,No,No,"$712,108.95"
+11210,"Trade Debtors","Current Asset",N-T,,No,No,No,"$712,108.95"
+11220,"Less Prov'n for Doubtful Debts","Current Asset",N-T,,No,No,No,$0.00
+11400,"Other Current Assets","Current Asset",,,No,No,No,"$57,604.23"
+11410,"Loan - to Kiosk","Current Asset",N-T,,No,No,No,"$40,311.04"
+11420,"Loan - to Emirates Academy","Current Asset",N-T,,No,No,No,"$80,395.00"
+11430,"Loan - to Raw Espressoba","Current Asset",N-T,,No,No,No,$0.00
+11440,"Loan - to MOKHA 1450","Current Asset",N-T,,No,No,No,"$57,604.23"
+11450,"(Voluntary WithholdingCredits)","Current Asset",N-T,,No,No,No,$0.00
+11460,"(ABN Withholding Credits)","Current Asset",N-T,,No,No,No,$0.00
+11470,"Loan - to Training & Services","Current Asset",N-T,,No,No,No,$0.00
+12000,"Prepayments and advances made","Current Asset",,,No,No,No,"$3,626,759.84"
+12100,"Prepayments Suppliers",Prepayment,,,No,No,No,"$162,789.25"
+12110,"Advances - Green Beans",Prepayment,N-T,,No,No,No,$0.00
+12111,"Advances - Equipments",Prepayment,N-T,,No,No,No,"$77,235.30"
+12112,"Advances - Suppliers",Prepayment,N-T,,No,No,No,"$109,650.00"
+12113,"Prepayment - Insurance",Prepayment,N-T,,No,No,No,"$25,627.34"
+12114,"Prepayment - Dues & Subscripti",Prepayment,N-T,,No,No,No,"$12,843.91"
+12115,"Prepayment - ENOC VIP Card",Prepayment,VPX,,No,No,No,$0.00
+12116,"Prepayment - Trade Lic & Spons",Prepayment,N-T,,No,No,No,"$14,668.00"
+12117,"Prepayment - Advertising",Prepayment,VPX,,No,No,No,$0.00
+12118,"Prepayment- Packaging",Prepayment,VPX,,No,No,No,$0.00
+12200,"Supplier Deposits",Prepayment,N-T,,No,No,No,"$1,334,785.27"
+12210,"General Deposits",Prepayment,N-T,"Opening Balance of 1,500 is a Dulsco Deposit",No,No,No,"$36,725.00"
+12220,"RAK STL Margin Holding Acct",Prepayment,N-T,,No,No,No,"$135,227.07"
+12300,"Advances to employees",Prepayment,N-T,,No,No,No,"$34,680.00"
+12400,"Immigration deposit (labour)",Prepayment,N-T,,No,No,No,"$106,000.00"
+12500,"Loan to shareholders",Prepayment,N-T,,No,No,No,"($14,711.20)"
+12600,"Prepayments and deposits Occup",Prepayment,,,No,No,No,"$1,865,944.45"
+12610,"Prepayment - Whs No. 10 Rent",Prepayment,N-T,,No,No,No,"$12,500.00"
+12620,"Prepayment - Whs No. 12 Rent",Prepayment,N-T,,No,No,No,"$25,000.00"
+12621,"Prepayment - 10X Rent",Prepayment,VPX,,No,No,No,"$1,764,444.45"
+12630,"Prepayment - Big Blue Whs ",Prepayment,N-T,,No,No,No,$0.00
+12640,"Warehouse Security Deposit",Prepayment,N-T,,No,No,No,"$54,000.00"
+12650,"DEWA Deposit",Prepayment,N-T,,No,No,No,"$35,000.00"
+12900,"Prepayment - Kiosk",Prepayment,N-T,,No,No,No,$0.00
+12910,"Prepayment - Events",Prepayment,N-T,,No,No,No,$0.00
+12920,"Prepayment - Academy",Prepayment,N-T,,No,No,No,$0.00
+13000,Inventory,"Current Asset",,,No,No,No,"$2,148,101.74"
+13100,"Green Been",Inventory,,,No,No,No,"$1,059,422.46"
+13110,"Green Coffee Beans",Inventory,N-T,,No,No,No,"$1,059,422.46"
+13115,"Mokha Green Beans",Inventory,VR5,,No,No,No,$0.00
+13116,"Third Party Greeen Beans",Inventory,VR5,,No,No,No,$0.00
+13200,"Whole Beans",Inventory,,,No,No,No,"$11,432.65"
+13210,"Whole Bean 250g - Asset",Inventory,N-T,,No,No,No,$0.00
+13220,"Whole Bean 500g - Asset",Inventory,N-T,,No,No,No,$0.00
+13230,"Whole Bean 1kg - Asset",Inventory,N-T,,No,No,No,"$11,432.65"
+13240,"Whole Beans Espressobar -Asset",Inventory,N-T,,No,No,No,$0.00
+13310,Beverages,Inventory,,,No,No,No,$0.00
+13311,"Espresso beverages (hot)",Inventory,N-T,,No,No,No,$0.00
+13312,"Espresso beverages (iced)",Inventory,N-T,,No,No,No,$0.00
+13313,"Non coffee beverages (hot)",Inventory,N-T,,No,No,No,$0.00
+13314,"Non coffee beverages (iced)",Inventory,N-T,,No,No,No,$0.00
+13315,Tea,Inventory,N-T,,No,No,No,$0.00
+13316,"Rocket Fuel Asset",Inventory,N-T,,No,No,No,$0.00
+13317,"Ready to Eat",Inventory,N-T,,No,No,No,$0.00
+13318,"Ready to Drink",Inventory,N-T,,No,No,No,$0.00
+13320,"Restaurant consumables",Inventory,N-T,,No,No,No,$0.00
+13400,"Equipment and Serveware",Inventory,,,No,No,No,"$1,088,891.14"
+13410,"Commercial Equipment",Inventory,N-T,,No,No,No,"$511,968.14"
+13420,"Retail Equipment",Inventory,N-T,,No,No,No,"$322,092.67"
+13430,"Serveware & Merchandize",Inventory,N-T,,No,No,No,$0.00
+13440,Consumables,Inventory,N-T,,No,No,No,$0.00
+13450,"Packaging Items",Inventory,N-T,,No,No,No,"$118,724.34"
+13460,"Spare Parts and Services",Inventory,N-T,,No,No,No,"$136,105.99"
+13470,"Retail Tea & Accesories Asset",Inventory,VPX,,No,No,No,$0.00
+13900,"Other Inventories",Inventory,,,No,No,No,"($11,644.51)"
+13901,"Landed cost adj - Inventory",Inventory,N-T,,No,No,No,"$1,070.00"
+13902,"Inventory Transfer - Suspense",Inventory,N-T,,No,No,No,"($12,714.51)"
+14000,"Fixed Assets","Fixed Asset",,,No,No,No,"$3,009,538.86"
+14100,"Plant & Equipment","Fixed Asset",,,No,No,No,"$336,083.72"
+14110,"Roasting Equipment","Fixed Asset",N-T,,No,No,No,"$473,885.87"
+14115,"Accum Dep - Roasting Equip.","Fixed Asset",N-T,,No,No,No,"($315,796.34)"
+14120,"Coffee Machines & Equipments","Fixed Asset",N-T,,No,No,No,"$383,832.16"
+14125,"Accum Dep - Coffee Machine & E","Fixed Asset",N-T,,No,No,No,"($295,543.07)"
+14130,"Small Equipments & Tools","Fixed Asset",N-T,,No,No,No,"$239,158.16"
+14135,"Accum Dep - Small Equip & Tool","Fixed Asset",N-T,,No,No,No,"($228,316.48)"
+14140,"Events Equipments & Tools","Fixed Asset",N-T,"Used for the recording assets of the Events & inside Bertha (event Truck) & tuk-tuk",No,No,No,"$312,365.37"
+14145,"Accum Dep - Events Equip&Tool ","Fixed Asset",N-T,,No,No,No,"($236,537.41)"
+14150,"Office Store Computer & Equip","Fixed Asset",N-T,,No,No,No,"$95,294.52"
+14155,"Accum Dep -  Office/Store Comp","Fixed Asset",N-T,,No,No,No,"($92,259.06)"
+14160,"Jura Display Items","Fixed Asset",N-T,,No,No,No,"$9,010.00"
+14165,"Accum Dep - Jura Display Items","Fixed Asset",N-T,,No,No,No,"($9,010.00)"
+14166,"Plant and Equipment - Acc Dep","Fixed Asset",N-T,,No,No,No,$0.00
+14167,"Training Assets","Fixed Asset",VPX,,No,No,No,$0.00
+14168,"Accum Dep - Training Assets","Fixed Asset",N-T,,No,No,No,$0.00
+14175,"Cold Brew Plant","Fixed Asset",N-T,,No,No,No,$0.00
+14176,"Accum Dep - Cold Brew Plant","Fixed Asset",N-T,,No,No,No,$0.00
+14177,"Kitchen Equipments","Fixed Asset",N-T,,No,No,No,$0.00
+14178,"Accum Dep - Kitchen Equipments","Fixed Asset",N-T,,No,No,No,$0.00
+14179,"Water Treatment Plant","Fixed Asset",N-T,,No,No,No,$0.00
+14180,"Accum Dep-Water Treatment Plan","Fixed Asset",N-T,,No,No,No,$0.00
+14181,"Software development & Integra","Fixed Asset",VPX,,No,No,No,$0.00
+14182,"Accum Dep-Software dev&Integra","Fixed Asset",N-T,,No,No,No,$0.00
+14200,"Leasehold improvements","Fixed Asset",,,No,No,No,$0.01
+14210,"Leasehold improvements","Fixed Asset",N-T,,No,No,No,"$351,871.17"
+14219,"Leasehold improvements - Acc D","Fixed Asset",N-T,,No,No,No,"($351,871.16)"
+14220,"Espresso Bar Construction Cost","Fixed Asset",N-T,,No,No,No,$0.00
+14229,"Accum Dep-Espresso Bar Constru","Fixed Asset",N-T,,No,No,No,$0.00
+14300,"New WHS","Fixed Asset",,,No,No,No,"$2,324,060.06"
+14310,"New WHS","Fixed Asset",N-T,,No,No,No,"$2,324,060.06"
+14319,"Accum Dep - New WHS","Fixed Asset",N-T,,No,No,No,$0.00
+14320,"Espresso Bar","Fixed Asset",N-T,,No,No,No,$0.00
+14329,"Accum Dep - Espresso Bar","Fixed Asset",N-T,,No,No,No,$0.00
+14400,"Furniture and Fixtures","Fixed Asset",,,No,No,No,"$6,968.85"
+14410,"Furniture and Fixtures","Fixed Asset",N-T,,No,No,No,"$64,159.45"
+14419,"Accum Dep - Furniture and Fixt","Fixed Asset",N-T,,No,No,No,"($57,190.60)"
+14500,"Motor Vehicles","Fixed Asset",,,No,No,No,"$101,518.61"
+14510,"Mini Copper - K 52517 (Kim)","Fixed Asset",N-T,,No,No,No,"$147,261.00"
+14511,"Accum Dep - Mini K52517 (Kim)","Fixed Asset",N-T,,No,No,No,"($80,771.65)"
+14515,"Mini Copper - K 50097 (Matt)","Fixed Asset",N-T,,No,No,No,"$147,261.00"
+14516,"Accum Dep - Mini K50097 (Matt)","Fixed Asset",N-T,,No,No,No,"($80,771.65)"
+14520,"Volkswagen Caddy - P 84172","Fixed Asset",N-T,,No,No,No,"$76,228.00"
+14521,"Accum Dep - Volks Cad- P84172","Fixed Asset",N-T,,No,No,No,"($58,441.58)"
+14525,"Volkswagen Caddy - P 84174","Fixed Asset",N-T,,No,No,No,"$65,930.00"
+14526,"Accum Dep - Volks Cad- P84174","Fixed Asset",N-T,,No,No,No,"($50,546.18)"
+14530,"Volkswagen Golf - D92197","Fixed Asset",N-T,,No,No,No,"$78,981.00"
+14531,"Accum Dep - Volks Golf- D92197","Fixed Asset",N-T,,No,No,No,"($56,603.05)"
+14535,"Nissan Urvan F90822","Fixed Asset",N-T,,No,No,No,"$77,924.00"
+14536,"Accum Dep -Nissan Urvan F90822","Fixed Asset",N-T,,No,No,No,"($72,483.66)"
+14540,"Mitsubishi Lancer D95647","Fixed Asset",N-T,"Cost in old books is 63,400 for two cars of Mitsubishi and fully depreciated",No,No,No,"$31,700.00"
+14550,"Mitsubishi Lancer K11615","Fixed Asset",N-T,"Cost in old books is 63,400 for two cars of Mitsubishi and fully depreciated",No,No,No,"$31,700.00"
+14551,"Accum Depn - Lancers","Fixed Asset",N-T,,No,No,No,"($63,400.00)"
+14560,"Volkswagen Caddy - S 15403","Fixed Asset",N-T,,No,No,No,"$63,050.00"
+14561,"Accum Dep - Volks Cad - S15403","Fixed Asset",N-T,,No,No,No,"($22,519.92)"
+14570,"Peugeot - W 43721","Fixed Asset",N-T,,No,No,No,$0.00
+14571,"Accum Dep - Peugeot - W 43721","Fixed Asset",N-T,,No,No,No,$0.00
+14580,"Peugeot -W 57413","Fixed Asset",N-T,,No,No,No,$0.00
+14581,"Accum Dep - Peugeot - W 57413","Fixed Asset",N-T,,No,No,No,$0.00
+14600,Events,"Fixed Asset",,,No,No,No,"$240,907.61"
+14610,"Bertha Events - D75393","Fixed Asset",N-T,,No,No,No,"$275,228.50"
+14611,"Accum Depn - Events Bertha","Fixed Asset",N-T,,No,No,No,"($127,058.77)"
+14620,"Tuk-Tuk Raw Events","Fixed Asset",N-T,,No,No,No,"$75,845.50"
+14621,"Accum Depn - TukTuk Raw ","Fixed Asset",N-T,,No,No,No,"($56,884.01)"
+14630,"Tuk-Tuk Refinery Events","Fixed Asset",N-T,,No,No,No,"$109,784.00"
+14631,"Accum Depn - TukTuk Refinery ","Fixed Asset",N-T,,No,No,No,"($86,912.27)"
+14640,"Bruce Events - R18386","Fixed Asset",N-T,,No,No,No,"$203,619.00"
+14641,"Accum Depn - Bruce Events ","Fixed Asset",N-T,,No,No,No,"($152,714.34)"
+14670,"Landed cost adj - Plant Equipm","Fixed Asset",N-T,,No,No,No,$0.00
+20000,Liabilities,Liability,,,No,No,No,"$3,905,391.50"
+21000,"Current Liabilities","Current Liability",,,No,No,No,"$3,647,479.25"
+21100,"Trade Creditors (A/P)","Current Liability",N-T,,No,No,No,"$2,155,805.12"
+21200,"RAKBANK Credit Card","Current Liability",N-T,,No,No,No,$0.00
+21300,"A/P Accrual - Inventory","Current Liability",N-T,,No,No,No,$0.00
+21400,Accruals,"Current Liability",,,No,No,No,"$21,915.00"
+21401,"Bonus Accrual","Current Liability",N-T,,No,No,No,$0.00
+21402,"Accrued payables","Current Liability",N-T,,No,No,No,"$10,000.00"
+21403,"Airfare Accrual","Current Liability",N-T,,No,No,No,$0.00
+21404,"Leave Salary Accrual","Current Liability",N-T,,No,No,No,$0.00
+21405,"Bystro @ Raw Mktg Accrual","Current Liability",VS5,,No,No,No,$0.00
+21406,"Inventory Adjustment Accruals","Current Liability",N-T,,No,No,No,$0.00
+21407,"Rebates Accruals","Current Liability",N-T,,No,No,No,"$21,915.00"
+21410,"RAK Bank Credit Card - KIM","Current Liability",N-T,,No,No,No,$0.00
+21420,"RAK Bank Credit Card -  MATT","Current Liability",N-T,,No,No,No,$0.00
+21500,"Tax liability","Current Liability",,,No,No,No,$0.00
+21510,"VAT Liability due to FTA","Current Liability",N-T,,No,No,No,"$113,039.42"
+21520,"VAT Paid","Current Liability",,,No,No,No,"$28,046.71"
+21521,"VAT Paid 5% Reverse","Current Liability",VR5,,No,No,No,$0.00
+21522,"VAT Paid 5% Reverse non recov","Current Liability",VRN,,No,No,No,$0.00
+21523,"VAT Paid 5% UAE on Purchases","Current Liability",VPX,,No,No,No,"$28,046.71"
+21524,"VAT Paid 5% UAE non recov","Current Liability",VPN,,No,No,No,$0.00
+21525,"VAT Paid 0% UAE","Current Liability",VP0,,No,No,No,$0.00
+21526,"VAT Paid Exempt","Current Liability",N-T,,No,No,No,$0.00
+21530,"VAT Collected","Current Liability",,,No,No,No,"($191,294.05)"
+21531,"VAT Collected 5% on Sales","Current Liability",VS5,,No,No,No,"($191,294.05)"
+21532,"VAT Collected 0%","Current Liability",VS0,,No,No,No,$0.00
+21590,"Tax Inactive","Current Liability",,,No,No,No,$0.00
+21591,"GST Collected","Current Liability",N-T,,No,No,No,$0.00
+21592,"GST Paid","Current Liability",N-T,,No,No,No,$0.00
+21593,"WET Payable","Current Liability",N-T,,No,No,No,$0.00
+21594,"Voluntary Withholdings Payable","Current Liability",N-T,,No,No,No,$0.00
+21595,"ABN Withholdings Payable","Current Liability",N-T,,No,No,No,$0.00
+21596,"Luxury Car Tax Payable","Current Liability",N-T,,No,No,No,$0.00
+21600,"Advance payments","Current Liability",,,No,No,No,"$3,102.50"
+21610,"Customer Advance Payments","Current Liability",N-T,,No,No,No,$0.00
+21620,"Wages payable","Current Liability",N-T,,No,No,No,$0.00
+21630,"Other advances","Current Liability",N-T,,No,No,No,"$3,102.50"
+21640,"Gift cards","Current Liability",N-T,,No,No,No,$0.00
+21700,"RAKBANK Financial Loan","Current Liability",,,No,No,No,"$1,516,864.55"
+21710,"RAKBANK - Financial Loan","Current Liability",N-T,,No,No,No,"$676,133.43"
+21719,"Amortization - Financial Loan","Current Liability",N-T,,No,No,No,$0.00
+21720,"RAK Financial Loan - 391932002","Current Liability",N-T,,No,No,No,"$126,853.60"
+21721,"RAK Financial Loan - 391932003","Current Liability",N-T,,No,No,No,"$426,023.14"
+21722,"RAK Financial Loan - 391932004","Current Liability",N-T,,No,No,No,"$261,017.19"
+21723,"RAK Financial Loan - 391932005","Current Liability",N-T,,No,No,No,"$26,837.19"
+21800,"Other Current Liability","Current Liability",N-T,,No,No,No,$0.00
+22000,"Long term liabilities",Liability,,,No,No,No,"$257,912.25"
+22100,"RAKBANK Car Loans","Non-current Liability",,,No,No,No,"$20,420.25"
+22110,"RAKBANK - Mini - K52517 (Kim)","Non-current Liability",N-T,"Rakbank Loan # 20172038 / Monthly 2,705 / Last Payment Aug 2017 / Last Payment Amount 561.67/User: Kim Thompson",No,No,No,"$65,330.45"
+22119,"Amortization - Mini K52517","Non-current Liability",N-T,,No,No,No,$0.00
+22120,"RAKBANK - Mini - K50097 (Matt)","Non-current Liability",N-T,"Rakbank Loan # 20172035 / Monthly 2,705 / Last Payment Aug 2017 / Last Payment Amount 561.67/User: Matt Toogood",No,No,No,"$65,330.45"
+22129,"Amortization - Mini K50097","Non-current Liability",N-T,,No,No,No,$0.00
+22130,"RAKBANK - VolkC P84172","Non-current Liability",N-T,"Rakbank Loan # 20266433 / Monthly 1,975 / Last Payment Aug 2017 / Last Payment Amount 1,975/User: Eleya (servicing)",No,No,No,"$46,578.79"
+22139,"Amortization - VolkC P84172","Non-current Liability",N-T,,No,No,No,$0.00
+22140,"RAKBANK - VolkC P84174","Non-current Liability",N-T,"Rakbank Loan # 20266438 / Monthly 1,975 / Last Payment Aug 2017 / Last Payment Amount 1,975/User: Delivery",No,No,No,"$38,531.73"
+22149,"Amortization - VolkC P84174","Non-current Liability",N-T,,No,No,No,$0.00
+22150,"RAKBANK - Volks G D92197","Non-current Liability",N-T,"Rakbank Loan # 20279934 / Monthly 1,283 / Last Payment Oct 2019 / (4 years) Last Payment Amount 1,283/User: Felix",No,No,No,"$20,420.25"
+22159,"Amortization - Volks G D92197","Non-current Liability",N-T,,No,No,No,$0.00
+22160,"RAKBANK - Nissan U F90822","Non-current Liability",N-T,,No,No,No,"$10,703.21"
+22169,"Amortization - Nissan U F90822","Non-current Liability",N-T,,No,No,No,$0.00
+22200,"End of Service Gratuity Provis","Non-current Liability",N-T,,No,No,No,"$237,492.00"
+22300,"Bad debt provision","Current Liability",N-T,,No,No,No,$0.00
+29100,"Loan to owners","Current Liability",N-T,,No,No,No,"$892,917.94"
+30000,Equity,Equity,,,No,No,No,"$5,914,848.31"
+31000,Capital,Equity,,,No,No,No,"$300,000.00"
+31100,"Shareholders Capital",Equity,N-T,"Initial Capital",No,No,No,"$300,000.00"
+31200,"Capital Drawings",Equity,N-T,,No,No,No,$0.00
+32000,"Legal Reserve",Equity,N-T,,No,No,No,"$150,000.00"
+38000,"Retained Earnings",Equity,N-T,,No,No,No,"$5,208,590.42"
+39000,"Current Year Earnings",Equity,N-T,,No,No,No,"$406,257.89"
+39999,"Historical Balancing",Equity,N-T,,No,No,No,$0.00
+40000,Income,Sales,,,No,No,No,$0.00
+41100,"Green Coffee",Sales,VS5,,No,No,No,$0.00
+41200,"Whole Beans",Sales,,,No,No,No,$0.00
+41210,"Whole Bean 250g - Sales",Sales,VS5,,No,No,No,$0.00
+41211,"Coffee Bag Sales",Sales,VS5,,No,No,No,$0.00
+41220,"Whole Bean 500g - Sales",Sales,VS5,,No,No,No,$0.00
+41230,"Whole Bean 1kg - Sales",Sales,VS5,,No,No,No,$0.00
+41250,"Refinery - Coffee Bag Revenue",Sales,VS5,,No,No,No,$0.00
+42000,Restaurant,Sales,,,No,No,No,$0.00
+42001,Events,Sales,VS5,,No,No,No,$0.00
+42100,Beverages,Sales,,,No,No,No,$0.00
+42105,"Brewed Coffee",Sales,VS5,,No,No,No,$0.00
+42110,"Espresso Beverages (hot)",Sales,VS5,"Mother Account for Coffee Sales",No,No,No,$0.00
+42120,"Espresso Beverages (iced)",Sales,VS5,,No,No,No,$0.00
+42130,"Non Coffee Beverages (hot)",Sales,VS5,"Sale from all Drinks not classified in coffee menu",No,No,No,$0.00
+42140,"Non Coffee Beverages (iced)",Sales,VS5,,No,No,No,$0.00
+42150,Tea,Sales,VS5,,No,No,No,$0.00
+42160,"Rocket Fuel Sales",Sales,VS5,,No,No,No,$0.00
+42200,"Ready to Eat",Sales,VS5,"All income coming from Skinny Genie Products (for RAW) and Appetite (for Café)",No,No,No,$0.00
+42300,"Ready to Drink",Sales,VS5,,No,No,No,$0.00
+42400,"Restaurant Consumable",Sales,VS5,,No,No,No,$0.00
+42500,"Food - Direct",Sales,VS5,,No,No,No,$0.00
+42501,"Food - Bystro",Sales,VS5,,No,No,No,$0.00
+43000,"Equipment and Serveware",Sales,,,No,No,No,$0.00
+43100,"Commercial Equipment",Sales,,,No,No,No,$0.00
+43110,"Other Commercial Equipment",Sales,VS5,,No,No,No,$0.00
+43120,"Espresso Machines - Commercial",Sales,VS5,"For Commercial Clients",No,No,No,$0.00
+43130,"Grinder Sales",Sales,VS5,"Sales of all Grinder Machines",No,No,No,$0.00
+43140,"Equipment Sales",Sales,VS5,"Sale of machines not classified as Espresso or Grinder that has a Machine with it",No,No,No,$0.00
+43150,"Customer Service & Training",Sales,VS5,"Customer Service & Training for LETO and other clients agst yearly contracts",No,No,No,$0.00
+43160,"Preventive Maintenance",Sales,VS5,"Preventive maintenance for LETO and other clients against yearly contracts",No,No,No,$0.00
+43200,"Retail Equipment",Sales,,,No,No,No,$0.00
+43210,"Other Retail Equipment",Sales,VS5,,No,No,No,$0.00
+43220,"EMS - Jura Machines",Sales,VS5,,No,No,No,$0.00
+43230,"Jura Accessories & Products",Sales,VS5,,No,No,No,$0.00
+43240,"Espresso Machines - Retail",Sales,VS5,"For Retail Clients",No,No,No,$0.00
+43250,"Small Retail Items",Sales,VS5,"Sale of Milk jug and other items that does not contain machines with it",No,No,No,$0.00
+43300,"Serveware & Merchandize",Sales,VS5,,No,No,No,$0.00
+43310,"Retail Tea & Accesories Sales",Sales,VS5,,No,No,No,$0.00
+43400,Consumables,Sales,VS5,,No,No,No,$0.00
+43500,Packaging,Sales,VS5,"Sale of Cups and other packaging items to be used in distribution to café and sell out to clients",No,No,No,$0.00
+43600,"Spare Parts & Servicing",Sales,VS5,"All purchase items that is used for repairs",No,No,No,$0.00
+43700,"Equipment Servicing",Sales,VS5,"Labor fee of all servicing with charges",No,No,No,$0.00
+44000,Training,Sales,,,No,No,No,$0.00
+44100,"Coffee Appreciation Courses",Sales,VS5,"Income from all coffee appreciation courses",No,No,No,$0.00
+44200,"Client Training",Sales,VS5,,No,No,No,$0.00
+44300,"SCA Training",Sales,VS5,,No,No,No,$0.00
+44400,"New Store Training",Sales,VS5,,No,No,No,$0.00
+45000,"Roasting Services",Sales,VS5,,No,No,No,$0.00
+46000,"Other Sales",Sales,VS5,"""Other Sales (is for consignment Items (example: Bags, Donations)""",No,No,No,$0.00
+47000,Royalties/Comissions,Sales,,,No,No,No,$0.00
+47100,"Royalties Collected",Sales,VS5,,No,No,No,$0.00
+47200,"Revenue Sharing",Sales,VS5,"Revenue Sharing for events and other sales related activities",No,No,No,$0.00
+48000,Rebates,Sales,,,No,No,No,$0.00
+48100,"Rebates - Coffee",Sales,N-T,,No,No,No,$0.00
+48200,"Rebates- Equipment",Sales,N-T,,No,No,No,$0.00
+48300,"Rebates - Misc",Sales,N-T,,No,No,No,$0.00
+49000,"(Freight Income)",Sales,N-T,,No,No,No,$0.00
+49100,"(Late Fees Collected)",Sales,N-T,,No,No,No,$0.00
+49210,"Espresso Machines",Sales,,"Mother Account for Espresso Machine Sales",No,No,No,$0.00
+49300,Discounts,Sales,,,No,No,No,$0.00
+49301,"Refuel Redemption",Sales,VS5,,No,No,No,$0.00
+49890,"JURA ITEMS (Coffema)",Sales,N-T,,No,No,No,$0.00
+50000,"Cost of Sales","Direct Costs",,,No,No,No,$0.00
+51000,"Whole Bean Coffee COS","Direct Costs",,,No,No,No,$0.00
+51100,"Green Coffee COS","Direct Costs",N-T,,No,No,No,$0.00
+51200,"Whole Beans COS","Direct Costs",,,No,No,No,$0.00
+51210,"Whole Bean 250g COS","Direct Costs",N-T,,No,No,No,$0.00
+51220,"Whole Bean 500g COS","Direct Costs",N-T,,No,No,No,$0.00
+51230,"Whole Bean 1kg COS","Direct Costs",N-T,,No,No,No,$0.00
+51240,"Refinery - COS","Direct Costs",N-T,,No,No,No,$0.00
+51246,"Beans COS","Direct Costs",N-T,"Purchases of all the coffee beans",No,No,No,$0.00
+51247,"Coffee Bags COS","Direct Costs",N-T,"Purchases of Coffee Bags directly use for packaging of coffee",No,No,No,$0.00
+51248,"Gas COS","Direct Costs",N-T,"Purchases of Gas directly associated with Roasting",No,No,No,$0.00
+51249,"Coffee Box","Direct Costs",N-T,"Purchases of Coffee Box directly use for packaging  and consumption of coffee pockets",No,No,No,$0.00
+51800,"Freight & Customs - Beans COS","Direct Costs",N-T,"Freight & Customs that is directly related to Green Beans",No,No,No,$0.00
+51900,"Coffee Adjustments","Direct Costs",N-T,"Production weight loss of Green Beans",No,No,No,$0.00
+52000,"Restaurant COS","Direct Costs",,,No,No,No,$0.00
+52100,"Beverages COS","Direct Costs",,,No,No,No,$0.00
+52105,"Brewed Coffee COS","Direct Costs",VPX,,No,No,No,$0.00
+52110,"Espresso Beverages (hot) COS","Direct Costs",N-T,"Mother Account for Coffee COS for Café (COGS for RAW)",No,No,No,$0.00
+52120,"Espresso Beverages (iced) COS","Direct Costs",N-T,,No,No,No,$0.00
+52130,"Non Coffee Beverages (hot) COS","Direct Costs",N-T,,No,No,No,$0.00
+52140,"Non Coffee Beverages (iced)COS","Direct Costs",N-T,,No,No,No,$0.00
+52150,"Tea COS","Direct Costs",N-T,,No,No,No,$0.00
+52160,"Rocket Fuel COS","Direct Costs",N-T,,No,No,No,$0.00
+52200,"Ready to Eat COS","Direct Costs",N-T,,No,No,No,$0.00
+52300,"Ready to Drink COS","Direct Costs",N-T,,No,No,No,$0.00
+52400,"Restaurant consumables COS","Direct Costs",N-T,,No,No,No,$0.00
+52500,"Food - Direct COGS","Direct Costs",VPX,,No,No,No,$0.00
+52501,"Food - Bystro COGS","Direct Costs",VPX,,No,No,No,$0.00
+52600,"Emirates Academy COS","Direct Costs",N-T,,No,No,No,$0.00
+52650,"Events COS","Direct Costs",N-T,,No,No,No,$0.00
+52700,"Kiosk COS","Direct Costs",N-T,,No,No,No,$0.00
+52800,"Espressobar COS","Direct Costs",N-T,,No,No,No,$0.00
+53000,"Equipment and Serveware COS","Direct Costs",,,No,No,No,$0.00
+53001,"Equipments COS","Direct Costs",N-T,,No,No,No,$0.00
+53002,"Inventory Adjustments","Direct Costs",N-T,,No,No,No,$0.00
+53100,"Commercial Equipment COS","Direct Costs",,,No,No,No,$0.00
+53110,"Other Commercial Equipment COS","Direct Costs",N-T,,No,No,No,$0.00
+53120,"Espresso Mach. Commercial COS","Direct Costs",N-T,,No,No,No,$0.00
+53130,"Grinders COS","Direct Costs",N-T,"Purchases of All Grinder Machines",No,No,No,$0.00
+53140,"Espresso Machines COS","Direct Costs",N-T,"Purchases of All Espresso Machines",No,No,No,$0.00
+53200,"Retail Equipment COS","Direct Costs",,,No,No,No,$0.00
+53210,"Other Retail Equipment COS","Direct Costs",N-T,,No,No,No,$0.00
+53220,"EMS - Jura Machines COS","Direct Costs",N-T,,No,No,No,$0.00
+53230,"Jura Accessories & Products CO","Direct Costs",N-T,,No,No,No,$0.00
+53240,"Espresso Machines - Retail COS","Direct Costs",N-T,,No,No,No,$0.00
+53250,"Small Retail COS","Direct Costs",N-T,"Item purchases like Milk jug and other items that does not contain machines with it",No,No,No,$0.00
+53300,"Serveware & Merchandize COS","Direct Costs",N-T,,No,No,No,$0.00
+53310,"Retail Tea & Accesories COS","Direct Costs",VPX,,No,No,No,$0.00
+53400,"Consumables COS","Direct Costs",N-T,,No,No,No,$0.00
+53500,"Packaging COS","Direct Costs",N-T,,No,No,No,$0.00
+53600,"Spare Parts & Servicing COS","Direct Costs",N-T,"All purchase items that is used for repairs",No,No,No,$0.00
+53800,"Freight & Customs - Equipment","Direct Costs",N-T,,No,No,No,$0.00
+53900,"JURA Items (Coffeema) COS","Direct Costs",,,No,No,No,$0.00
+54000,"Training COS","Direct Costs",,,No,No,No,$0.00
+54100,"Coffee Appreciation Courses CO","Direct Costs",N-T,,No,No,No,$0.00
+54200,"Client Training COS","Direct Costs",N-T,,No,No,No,$0.00
+54300,"SCA Training COS","Direct Costs",N-T,,No,No,No,$0.00
+55000,"Roasting Services COS","Direct Costs",N-T,,No,No,No,$0.00
+56000,"Other COGS","Direct Costs",,,No,No,No,$0.00
+56100,"Other Cost of Sales","Direct Costs",N-T,,No,No,No,$0.00
+56200,"Payment gateway charges","Direct Costs",N-T,,No,No,No,$0.00
+60000,Expenses,Expense,,,No,No,No,$0.00
+61000,"Operating expenses",Expense,,,No,No,No,$0.00
+61100,"Marketing and Promotions",Expense,,,No,No,No,$0.00
+61110,Advertising,Expense,VPX,"One time advertising expenses",No,No,No,$0.00
+61120,"Dues & Subscription",Expense,VPX,"Expenses incurred in Shopify Fee / Facebook and other online company that promotes the company / and also newspaper ( that has a fixed monthly fee)",No,No,No,$0.00
+61130,"In-store Promotions",Expense,VPX,"""Expenses incurred in line with t-shirts, and other in store promotions not in ordinary line of business / sold inside the store""",No,No,No,$0.00
+61140,"Industry Memberships",Expense,VPX,"Expenses incurred to maintained membership and royalties with clubs and other organization",No,No,No,$0.00
+61150,Gifts/Other,Expense,VPX,,No,No,No,$0.00
+61200,"Employment expenses",Overhead,,,No,No,No,$0.00
+61210,"Salaries & Wages",Expense,N-T,,No,No,No,$0.00
+61211,"Management Remuneration",Expense,N-T,,No,No,No,$0.00
+61215,Bonus,Expense,N-T,,No,No,No,$0.00
+61220,"Part-time Staff",Expense,N-T,,No,No,No,$0.00
+61230,"Employee Visa",Expense,N-T,,No,No,No,$0.00
+61240,"Employee Medicals",Expense,N-T,,No,No,No,$0.00
+61250,"Training & Development",Expense,N-T,,No,No,No,$0.00
+61260,"Air Fare",Expense,N-T,,No,No,No,$0.00
+61270,"Leave Pay",Expense,N-T,,No,No,No,$0.00
+61280,"Gratuity Expense",Expense,N-T,,No,No,No,$0.00
+61281,"S&B Miscellaneous",Expense,N-T,,No,No,No,$0.00
+61282,"Staff Amenities",Expense,N-T,,No,No,No,$0.00
+61283,"Staff - Accommodation",Expense,N-T,,No,No,No,$0.00
+61284,"Employee EB Discounts",Expense,N-T,,No,No,No,$0.00
+61300,"Rent & Utility & Insurance",Expense,,"DEWA billing and other expenses except deposits necessary to make the functionality",No,No,No,$0.00
+61310,"DEWA - Warehouse 12",Expense,VPX,,No,No,No,$0.00
+61320,"DEWA - Warehouse 10",Expense,VPX,,No,No,No,$0.00
+61330,"DEWA - Warehouse Big Blue",Expense,VPX,,No,No,No,$0.00
+61340,"DEWA - Staff Apartment",Expense,VPX,,No,No,No,$0.00
+61350,"Rent Expense - WHS 10",Expense,VPX,"All Rent amorization Expenses (Monitoring will be at BS) (Schedule in Excel)",No,No,No,$0.00
+61360,"Rent Expense - WHS 12",Expense,VPX,"All Leasehold Improvements amorization Expenses (Monitoring will be at BS) (Schedule in Excel)",No,No,No,$0.00
+61370,"Rent Expense - WHS Big Blue",Expense,VPX,,No,No,No,$0.00
+61400,"Insurance Expense",Expense,,"""All Insurances amorization (Monitoring will be at BS) (Building, Cars, Medical, and others)""",No,No,No,$0.00
+61410,"Insurance - Building",Expense,VPX,,No,No,No,$0.00
+61420,"Insurance - Vehicles",Expense,VPX,,No,No,No,$0.00
+61430,"Insurance - Others",Expense,VPX,,No,No,No,$0.00
+61500,"Repairs & Maintenance",Expense,,,No,No,No,$0.00
+61505,"R & M - Building",Expense,VPX,"""All expenses incurred in relation in keeping the building in good condition/ expenses related to improvements but was not capitalized (Example : Doorknobs, Electrical Items and others)""",No,No,No,$0.00
+61510,"R & M - Equipment",Expense,VPX,"All expenses incurred in repairs of Coffee Machines & Equipments like gasket purchase at SPEEDEX and others",No,No,No,$0.00
+61515,"R & M - Vehicles",Expense,VPX,"All expenses pertaining to repairs of the Vehicles that was not being capitalized",No,No,No,$0.00
+61520,"R & M - Office Computers & Equ",Expense,VPX,"All expenses related to computer maintenance and other repairs of the office equipments (including IT and others to keep the office equipments running)",No,No,No,$0.00
+61521,"R&M - Service Dept Supplies",Expense,VPX,,No,No,No,$0.00
+61600,"Professional & Legal Fees",Expense,,,No,No,No,$0.00
+61610,"P & L Fees - Accounting",Expense,VPX,"All Accounting Fess incurred",No,No,No,$0.00
+61620,"P & L Fees - Legal",Expense,VPX,"All HR related Fees Incurred",No,No,No,$0.00
+61630,"P & L Fees - Human Resources",Expense,VPX,,No,No,No,$0.00
+61640,"P & L Fees - Other",Expense,VPX,,No,No,No,$0.00
+61700,"Transportation & Travel",Expense,,,No,No,No,$0.00
+61710,"Parking, Salik &Taxi",Expense,VPX,"Expenses incurred in line with Parking and Salik Charges",No,No,No,$0.00
+61715,"Driving Fines & Penalties",Expense,VPX,"Expenses paid for Penalties incurred by Drivers but should be charged out to drivers every end of the month and will always have a zero balance after every payroll",No,No,No,$0.00
+61720,"Travel & Accommodation",Expense,VPX,"""All expenses for Air Tickets, Hotel Accommodation and other expenses outside the country""",No,No,No,$0.00
+61725,"Card Top Up",Expense,VPX,,No,No,No,$0.00
+61735,"Fuel,Oil & Lubricants",Expense,VPX,"""For Expenses of Fuel, Car Oils and any other Petrol Products""",No,No,No,$0.00
+61740,"Vehicle Registration",Expense,VPX,,No,No,No,$0.00
+61745,"Rent Expense - Leased Vehicles",Expense,VPX,,No,No,No,$0.00
+61800,"Permits and Licenses",Expense,,,No,No,No,$0.00
+61805,"Business Licenses & Permits",Expense,N-T,"""All Expenses related the processing of Business Licenses and charges related to it (Includes, Business License and other Licenses necessary to keep the business running) / """,No,No,No,$0.00
+61810,"Sponsor Fee ",Expense,N-T,,No,No,No,$0.00
+61815,"HACCP & Test",Expense,N-T,"HACCP Expenses",No,No,No,$0.00
+61900,"IT, office & other expenses",Expense,,,No,No,No,$0.00
+61910,"General office expenses",Expense,VPX,,No,No,No,$0.00
+61911,"Office Supplies & Stationery",Expense,VPX,,No,No,No,$0.00
+61920,"Computer and IT",Expense,VPX,,No,No,No,$0.00
+61930,"General expenses",Expense,VPX,,No,No,No,$0.00
+61941,Telephone,Expense,VPX,"Expenses and billing for Landline",No,No,No,$0.00
+61942,Internet,Expense,VPX,"Expenses and billing for Internet",No,No,No,$0.00
+61943,Mobile,Expense,VPX,"Expenses and billing for Mobile",No,No,No,$0.00
+61950,"Entertainment & Refreshments",Expense,VPX,"""Team Building, Snacks, Bday etc""",No,No,No,$0.00
+61951,"Meals & Snack (Food)",Expense,VPX,,No,No,No,$0.00
+61960,"Bank charges",Expense,VPX,"Bank Charge not related to Credit Card Machines",No,No,No,$0.00
+61961,"Exchange Gain / Loss",Expense,N-T,,No,No,No,$0.00
+61970,"Cleaning and Maintenance",Expense,VPX,"""Expenses incurred for waste management (DULSCO), Cleaning (Arpal) and other chemicals expenses incurred for cleaning and maintenance of cleanliness and meeting sanitary requirements""",No,No,No,$0.00
+61980,"Postage & Freight",Expense,VPX,,No,No,No,$0.00
+62000,"Business Unit Operational Expe",Overhead,,,No,No,No,$0.00
+62100,"Events & Trucks",Expense,N-T,,No,No,No,$0.00
+62101,"Customer Rebates",Expense,VS5,,No,No,No,$0.00
+62200,"Espressobar Expenses",Expense,N-T,,No,No,No,$0.00
+62201,"EB Crockery and Drinkware",Expense,VPX,,No,No,No,$0.00
+62300,"E-commerce Fees",Expense,N-T,"Expenses incurred by Kiosk other than COGS",No,No,No,$0.00
+62400,"Emirates Academy Cafe Expenses",Expense,N-T,,No,No,No,$0.00
+62500,"Refinery Expenses",Expense,N-T,,No,No,No,$0.00
+62600,"Refuel Section Expenses",Expense,N-T,,No,No,No,$0.00
+62700,"Rocket Fuel Expenses",Expense,N-T,,No,No,No,$0.00
+62800,"Water Filtration Expenses",Expense,N-T,,No,No,No,$0.00
+62900,"Small Eq&Tools, Material (Exp)",Expense,N-T,,No,No,No,$0.00
+62910,"Furniture & Fixtures (Expense)",Expense,N-T,,No,No,No,$0.00
+63000,"Non operating expenses",Expense,,,No,No,No,$0.00
+63100,"Loans Interest Expense",Expense,,,No,No,No,$0.00
+63110,"RAKBANK - Loan Interest",Expense,N-T,,No,No,No,$0.00
+63120,"RAKBANK Vehicle Loans Interest",Expense,N-T,,No,No,No,$0.00
+63200,"Prior Year Adjustments",Expense,,,No,No,No,$0.00
+63210,"Prior Year Adjustment",Expense,N-T,,No,No,No,$0.00
+63220,"Prior Year Adj - Fixed Assets",Expense,N-T,,No,No,No,$0.00
+63230,"Prior Year Adj-FA Accum Depn ",Expense,N-T,,No,No,No,$0.00
+63300,"Bad debt expense",Expense,N-T,,No,No,No,$0.00
+63400,"Short/Over in Cheques",Expense,N-T,,No,No,No,$0.00
+68000,Depreciation,Depreciation,,,No,No,No,$0.00
+68100,"Dep'n Expense - Vehicles",Depreciation,,"Mother Account of Depreciation",No,No,No,$0.00
+68110,"Dep'n Expense - Vehicles",Depreciation,N-T,,No,No,No,$0.00
+68111,"Dep'n Exp - Mini Cooper K52517",Depreciation,N-T,,No,No,No,$0.00
+68112,"Dep'n Exp - Mini Cooper K50097",Depreciation,N-T,,No,No,No,$0.00
+68113,"Dep'n Exp - Volks Cad- P84172",Depreciation,N-T,,No,No,No,$0.00
+68114,"Dep'n Exp - Volks Cad- P84174",Depreciation,N-T,,No,No,No,$0.00
+68115,"Dep'n Exp - Volks Golf D92197",Depreciation,N-T,,No,No,No,$0.00
+68116,"Dep'n Exp - NissanUrvan F90822",Depreciation,N-T,,No,No,No,$0.00
+68117,"Dep'n Exp - Forklift",Depreciation,N-T,,No,No,No,$0.00
+68118,"Dep'n Exp - Bertha Event 75393",Depreciation,N-T,,No,No,No,$0.00
+68119,"Dep'n Exp - Bruce Event 18386",Depreciation,N-T,,No,No,No,$0.00
+68120,"Dep'n Exp - Volks Cad - R15403",Depreciation,N-T,,No,No,No,$0.00
+68121,"Dep'n Exp - Tuktuk Raw",Depreciation,N-T,,No,No,No,$0.00
+68122,"Dep'n Exp - Tuktuk Refinery",Depreciation,N-T,,No,No,No,$0.00
+68123,"Dep'n Exp - Peugeot - W 43721",Depreciation,N-T,,No,No,No,$0.00
+68124,"Dep'n Exp - Peugeot - W 57413",Depreciation,N-T,,No,No,No,$0.00
+68130,"Dep'n Expense - Equipments",Depreciation,N-T,"Depreciation of all the Machines (Used for Display or used in Coffee Shops) (Monitoring will be at BS) (Schedule at Excel)",No,No,No,$0.00
+68140,"Dep'n Expense - Furniture & Fi",Depreciation,N-T,"Depreciation of all the Office Computers and Equipments",No,No,No,$0.00
+68150,"Dep'n Expense - Warehouse Impr",Depreciation,N-T,"""Office tables, chairs, cabinets and other Items""",No,No,No,$0.00
+69000,"Other - inactive",Expense,,"Mother Account of Telephone and Communication",No,No,No,$0.00
+69100,none,Expense,N-T,,No,No,No,$0.00
+69200,"Discounts Taken",Expense,N-T,,No,No,No,$0.00
+69300,"Discounts Given",Expense,N-T,,No,No,No,$0.00
+69400,"Depreciation Expenses",Expense,,,No,No,No,$0.00
+80000,"Other Income",Sales,,,No,No,No,$0.00
+81100,"Misc Income","Other Income",N-T,,No,No,No,$0.00
+81110,"Asset Recovery on Sale","Other Income",N-T,,No,No,No,$0.00
+81150,"Cafe Short/Over ","Other Income",N-T,,No,No,No,$0.00
+81160,"CC Short/Over","Other Income",N-T,,No,No,No,$0.00
+81200,"Interest Income","Other Income",N-T,"Income from Bank",No,No,No,$0.00
+90000,"Other Expenses",Expense,,,No,No,No,$0.00
+91100,"Misc Expense",Expense,N-T,,No,No,No,$0.00
+91200,"Interest Expense","Other Income",N-T,,No,No,No,$0.00
+91300,"Bad debt or other write off",Expense,N-T,,No,No,No,$0.00
